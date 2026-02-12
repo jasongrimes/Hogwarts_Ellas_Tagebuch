@@ -1,6 +1,6 @@
 ---
 title: 'Die Winkelgasse II: Zauberstäbe, Zivilcourage und Zuckerschock'
-slug: winkelgasse-""
+slug: winkelgasse-2""
 abstract: Ella kauft die restlichen Artikel auf der Einkaufsliste.
 date: 1950-08-30
 ---
