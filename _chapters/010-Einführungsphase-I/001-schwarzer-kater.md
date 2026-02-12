@@ -3,6 +3,7 @@ title: Im 'Schwarzen Kater'
 slug: schwarzer-kater
 abstract: Ellas Ankunft im 'Schwarzen Kater'
 date: 1950-08-29
+image: "/assets/session_pics/Ella_S01_Diary_header.png"
 ---
 
 **29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
