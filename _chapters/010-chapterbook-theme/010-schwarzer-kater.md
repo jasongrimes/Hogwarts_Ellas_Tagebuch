@@ -2,8 +2,9 @@
 title: Im 'Schwarzen Kater'
 slug: schwarzer-kater
 abstract: Ellas Ankunft im 'Schwarzen Kater'
+date: 1950-08-29
 ---
-**29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
+##**29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
 
 Liebe Sarah,
@@ -64,19 +65,6 @@ Deine Ella
 
 —
 
-## Nachtrag: 00:12 Uhr, 30. August 1950
-
-​Ich habe versucht zu schlafen, aber dann kam das Gewitter. Und eben... eben wurden wir von einem verzweifelten Hilfeschrei geweckt, begleitet von einem hektischen Klopfen am Fenster im Flur. Klara und Leo haben tief geschlafen. Aber Genevieve war wach und sah genauso verängstigt aus wie ich.
-
-Ich habe eine Kerze genommen. Wir sind zum Fenster im Flur gegangen. Draußen, im strömenden Regen, auf dem Fenstersims im 342.000-ten Stockwerk oder so... da stand ein kleines, durchnässtes Wiesel mit Hut. ​Ich habe das Fenster geöffnet, es ist hinein geklettert und hat gefragt, ob das schon London ist.
-
-Ich weiß nicht, was hier vor sich geht. Ich weiß nicht, ob ich träume oder verrückt geworden bin. Ich weiß nur, dass die Regeln der Physik hier nicht gelten.
-
-  
-  
-
-# Eintrag 02: Die Winkelgasse I: Gringotts Zaubererbank
-
 ## Nachtrag: 00:12 Uhr, 29./30. August 1950
 
 Ich habe versucht zu schlafen, aber dann kam das Gewitter. Und eben wurden wir von einem verzweifelten Hilfeschrei geweckt, begleitet von einem hektischen Klopfen am Fenster im Flur. Klara und Leo haben tief geschlafen – wie sie das bei dem Lärm schaffen, ist mir ein Rätsel. Aber Genevieve war wach und sah genauso verängstigt aus wie ich.
@@ -88,9 +76,6 @@ Das erste, was es fragte, war, ob das hier schon London sei. Es hat eine Stimme 
 Ich stand nur da und habe versucht, zu verstehen, wie ein Mustelide kognitiv zur Sprache fähig sein kann. Mein Gehirn hat sich angefühlt wie Wackelpudding. Ich weiß nicht, ob ich träume oder verrückt geworden bin. Ich weiß nur, dass die Regeln der Naturwissenschaften hier nicht nur nicht gelten, sie werden aktiv verspottet.
 
 Colin Wheeler kam dazu und war ganz aufgeregt. Er hat das Wesen als einen „Jarvey“ identifiziert. Ich weiß nicht, was das ist. Es steht definitiv nicht in Brehms Tierleben. Genevieve und ich konnten das Tier schließlich überreden, in Colins Zimmer zu schlafen um am nächsten Tag alles zu klären. Wir sind wieder ins Bett gegangen. Aber wie soll ich jetzt schlafen, wenn ich weiß, dass Wiesel mit Hüten draußen herum fliegen und reden können?
-
-**
-
 
 
 ---
