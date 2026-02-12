@@ -5,7 +5,7 @@ abstract: Ella geht in der Winkelgasse zu Gringotts.
 date: 1950-08-30
 ---
 
-<img src="/assets/session_pics/Ella_S02_Diary_header.png" alt="S02 Header">
+<img src="assets/session_pics/Ella_S02_Diary_header.png" alt="S02 Header">
 
 <br>
 <br>
@@ -90,4 +90,4 @@ Deine E.
 
 ---
 
-<img src="/assets/session_pics/Ella_S02_Diary_full.png" alt="S02 Full">
+<img src="assets/session_pics/Ella_S02_Diary_full.png" alt="S02 Full">
