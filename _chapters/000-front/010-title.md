@@ -8,9 +8,7 @@ abstract:
 
 <span style="font-size:60px;">FÜR SARAH.</span>
 
-
-
-<br><br><br><br><br><br>
+<br><br><br>
 
 
 **!!! EIGENTUM VON ELLA LOCKWOOD !!!**
