@@ -360,7 +360,7 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 
 
 | Datum | Betrag | Bezeichnung | Rechtfertigung |
-| :--- | :--- | :---: | :---: |
+| :--- | :--- | :--- | :--- |
 | 30.08.1950 | + 300 G | Startkapital Gringotts | Darlehensaufnahme. Beginn der 7-Jahres-Frist. |
 |   | ± 0  G | Zauberstab | Kostenloses Erstexemplar |
 |   | - 55  G | Schuluniform<sup>1</sup> (Madam Malkins) | Notwendige Grundausstattung. Qualität erscheint robust. |
