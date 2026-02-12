@@ -1,9 +1,14 @@
 ---
 title: 'Die Winkelgasse I: Gringotts Zaubererbank'
 slug: winkelgasse-1
-abstract: Morgens in der Winkelgasse und ein Besuch bei Gringotts.
+abstract: Ella geht in der Winkelgasse zu Gringotts.
 date: 1950-08-30
 ---
+
+<img src="/assets/session_pics/Ella_S02_Diary_header.png" alt="S02 Header">
+
+<br>
+<br>
 
 **30. August 1950, 09:30 Uhr, in der Winkelgasse, vor Gringotts Zaubererbank.**
 
@@ -82,3 +87,7 @@ Oh Gott, Sarah. Ich höre mich an wie Vater. Es ist erschreckend. Ich dachte imm
 Aber ich muss jetzt erstmal weiter einkaufen. Die Mädchen warten schon. Ich melde mich heute Abend noch mal und berichte dir, wie der restliche Tag verlaufen ist.
 
 Deine E.
+
+---
+
+<img src="/assets/session_pics/Ella_S02_Diary_full.png" alt="S02 Full">

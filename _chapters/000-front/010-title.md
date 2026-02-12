@@ -1,6 +1,6 @@
 ---
 slug: book
-title: Ellas Tagebuch
+title: Widmung
 abstract:
 ---
 
@@ -10,16 +10,10 @@ abstract:
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
-
-
-
-
-
-**EIGENTUM VON ELLA LOCKWOOD**
+**!!! EIGENTUM VON ELLA LOCKWOOD !!!**
 
 <br>
 

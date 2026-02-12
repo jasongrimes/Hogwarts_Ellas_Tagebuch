@@ -1,9 +1,14 @@
 ---
 title: 'Die Winkelgasse II: Zauberstäbe, Zivilcourage und Zuckerschock'
 slug: winkelgasse-""
-abstract: Nachmittags in der Winkelgasse und der restliche Einkaufsbummels.
+abstract: Ella kauft die restlichen Artikel auf der Einkaufsliste.
 date: 1950-08-30
 ---
+
+<img src="" alt="">
+
+<br>
+<br>
 
 **Nachtrag: 30. August 1950, 21:38 Uhr.**
 

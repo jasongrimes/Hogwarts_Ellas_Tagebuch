@@ -8,13 +8,13 @@ disable_toc: true
 
 <br><br><br>
 
-_1. Unabhängigkeit des Projekts_
+**1. Unabhängigkeit des Projekts**
 
 Dieses fiktive Tagebuch und die damit verbundenen Spielinhalte sind ein rein privates, nicht-kommerzielles Homebrew-RPG-Fanprojekt. Es besteht keinerlei Verbindung, Kooperation oder geschäftliche Beziehung zu J.K. Rowling, ihren Vertretern oder den offiziellen Lizenzhaltern der „Wizarding World“. Dieses Projekt wird von Fans für Fans gestaltet, um einen kreativen Raum für kollaboratives Storytelling zu schaffen.
 
 <br>
 
-_2. Ausdrückliche Distanzierung von der Urheberin_
+**2. Ausdrückliche Distanzierung von der Urheberin**
 
 Wir distanzieren uns hiermit in aller Deutlichkeit und aufs Schärfste von den persönlichen Ansichten und öffentlichen Äußerungen von J.K. Rowling, insbesondere im Hinblick auf ihre Positionen zu Transgender-Themen und geschlechtlicher Identität.
 
@@ -22,19 +22,25 @@ Wir verurteilen jede Rhetorik, die die Existenz, die Rechte oder die Sicherheit 
 
 <br>
 
-_3. Die Philosophie der Rückeroberung („Reclaiming the Magic“)_
+**3. Die Philosophie der Rückeroberung („Reclaiming the Magic“)**
 
 Dieses Projekt entspringt der Überzeugung, dass eine geschaffene Welt ab einem gewissen Punkt nicht mehr nur ihrer Schöpferin gehört, sondern den Menschen, die sie mit Leben, Liebe und Gemeinschaft gefüllt haben.
 
 
-*Ablehnung:* Wir lehnen es ab, zuzusehen, wie eine Welt, die Generationen geprägt hat, durch die diskriminierenden Ansichten ihrer Urheberin beschmutzt und für viele Menschen zu einem unsicheren Ort gemacht wird.
+**Ablehnung:** Wir lehnen es ab, zuzusehen, wie eine Welt, die Generationen geprägt hat, durch die diskriminierenden Ansichten ihrer Urheberin beschmutzt und für viele Menschen zu einem unsicheren Ort gemacht wird.
 
-*Inklusion als Kern:* Unser Ziel ist es, diese magische Welt zurückzuerobern. Wir transformieren sie in einen Raum, der jene Inklusivität und Empathie ausstrahlt, die wir in der ursprünglichen Urheberin vermissen.
+**Inklusion als Kern:** Unser Ziel ist es, diese magische Welt zurückzuerobern. Wir transformieren sie in einen Raum, der jene Inklusivität und Empathie ausstrahlt, die wir in der ursprünglichen Urheberin vermissen.
 
-*Vielfalt im Kanon:* In unserem Homebrew-Universum ist kein Platz für Exklusion. Wir feiern die Vielfalt der Geschlechter, Identitäten und Lebensentwürfe als integralen Bestandteil der Magie selbst.
+**Vielfalt im Kanon:** In unserem Homebrew-Universum ist kein Platz für Exklusion. Wir feiern die Vielfalt der Geschlechter, Identitäten und Lebensentwürfe als integralen Bestandteil der Magie selbst.
 
 <br>
 
-_4. Schlusswort_
+**4. Transparenz zu KI-Inhalten**
+
+Zur visuellen Ausgestaltung dieses Tagebuchs (z. B. Header-Bilder und Illustrationen) werden KI-generierte Inhalte verwendet. Diese dienen dazu, die Vision dieser Welt unabhängig von kommerziellen Quellen zu visualisieren und den Fokus auf die erzählerische Gestaltung des RPGs zu legen.
+
+<br>
+
+**5. Schlusswort**
 
 Magie sollte verbinden, nicht ausgrenzen. Dieses Projekt ist unser Beitrag dazu, das Erbe dieser Welt zu schützen, indem wir es von der Intoleranz trennen. Wir stehen solidarisch an der Seite der Trans-Community und aller marginalisierten Gruppen, die sich durch die Äußerungen der Autorin verletzt oder herabgesetzt fühlen.

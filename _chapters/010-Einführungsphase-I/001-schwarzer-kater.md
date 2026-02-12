@@ -1,10 +1,14 @@
 ---
 title: Im 'Schwarzen Kater'
 slug: schwarzer-kater
-abstract: Ellas Ankunft im 'Schwarzen Kater'
+abstract: Ella kommt im 'Schwarzen Kater' an.
 date: 1950-08-29
-image: "/assets/session_pics/Ella_S01_Diary_header.png"
 ---
+
+<img src="/assets/session_pics/Ella_S01_Diary_header.png" alt="S01 Header">
+
+<br>
+<br>
 
 **29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
@@ -78,3 +82,7 @@ Das erste, was es fragte, war, ob das hier schon London sei. Es hat eine Stimme 
 Ich stand nur da und habe versucht, zu verstehen, wie ein Mustelide kognitiv zur Sprache fähig sein kann. Mein Gehirn hat sich angefühlt wie Wackelpudding. Ich weiß nicht, ob ich träume oder verrückt geworden bin. Ich weiß nur, dass die Regeln der Naturwissenschaften hier nicht nur nicht gelten, sie werden aktiv verspottet.
 
 Colin Wheeler kam dazu und war ganz aufgeregt. Er hat das Wesen als einen „Jarvey“ identifiziert. Ich weiß nicht, was das ist. Es steht definitiv nicht in Brehms Tierleben. Genevieve und ich konnten das Tier schließlich überreden, in Colins Zimmer zu schlafen um am nächsten Tag alles zu klären. Wir sind wieder ins Bett gegangen. Aber wie soll ich jetzt schlafen, wenn ich weiß, dass Wiesel mit Hüten draußen herum fliegen und reden können?
+
+---
+
+<img src="/assets/session_pics/Ella_S01_Diary_full.png" alt="S01 Full">
