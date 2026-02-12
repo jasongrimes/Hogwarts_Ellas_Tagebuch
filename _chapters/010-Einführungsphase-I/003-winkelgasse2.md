@@ -4,7 +4,8 @@ slug: winkelgasse-""
 abstract: Nachmittags in der Winkelgasse und der restliche Einkaufsbummels.
 date: 1950-08-30
 ---
-## **Nachtrag: 30. August 1950, 21:38 Uhr.**
+
+**Nachtrag: 30. August 1950, 21:38 Uhr.**
 
 
 Sarah, endlich Stille.
@@ -351,7 +352,7 @@ Deine Ella
 
 ___
 
-### Haushaltsbuch
+**Haushaltsbuch**
 
 Aktueller Stand: 30.08.1950
 
@@ -379,7 +380,7 @@ _AUFSCHLÜSSELUNG_
 
 <sup>2</sup> Equipment: 1 Zinnkessel Normgröße 2 (23G), 1 Sortiment Glasfläschen mit 1 Messingwaage (2G), 1 Teleskop (15G), Tasche (10G).
 
-<sup>3</sup> Schulbücher (7 x 8 G): 
+<sup>3</sup> Schulbücher (7 x 8 G):
 - Rita Habicht: *Die Enzyklopädie der Zaubersprüche, Band 1*
 - Bathilda Bagshot: *Geschichte der Zauberei*
 - Emeric Wendel: *Verwandlung für Anfänger*;
@@ -387,12 +388,3 @@ _AUFSCHLÜSSELUNG_
 - Arsenius Bunsen: *Zaubertränke und Zauberbräue*;
 - Newt Scamander: *Phantastische Tierwesen und wo sie zu finden sind*;
 - Quirin Sumo: *Dunkle Kräfte. Ein Kurs zur Selbstverteidigung*.
-
-
-
-
----
-```
-This file is located at: {{ page.path }}
-```
----

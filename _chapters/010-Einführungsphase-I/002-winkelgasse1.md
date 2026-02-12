@@ -4,7 +4,8 @@ slug: winkelgasse-1
 abstract: Morgens in der Winkelgasse und ein Besuch bei Gringotts.
 date: 1950-08-30
 ---
-## **30. August 1950, 09:30 Uhr, in der Winkelgasse, vor Gringotts Zaubererbank.**
+
+**30. August 1950, 09:30 Uhr, in der Winkelgasse, vor Gringotts Zaubererbank.**
 
 
 Liebe Sarah,
@@ -81,11 +82,3 @@ Oh Gott, Sarah. Ich höre mich an wie Vater. Es ist erschreckend. Ich dachte imm
 Aber ich muss jetzt erstmal weiter einkaufen. Die Mädchen warten schon. Ich melde mich heute Abend noch mal und berichte dir, wie der restliche Tag verlaufen ist.
 
 Deine E.
-
-
-
----
-```
-This file is located at: {{ page.path }}
-```
----

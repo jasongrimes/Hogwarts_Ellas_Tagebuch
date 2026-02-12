@@ -4,7 +4,8 @@ slug: schwarzer-kater
 abstract: Ellas Ankunft im 'Schwarzen Kater'
 date: 1950-08-29
 ---
-## **29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
+
+**29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
 
 Liebe Sarah,
@@ -63,9 +64,9 @@ Klara ist sehr still. Sie hat einen seltsamen, harten Akzent, wenn sie die wenig
 
 Deine Ella
 
-—
+---
 
-## Nachtrag: 00:12 Uhr, 29./30. August 1950
+**Nachtrag: 00:12 Uhr, 29./30. August 1950**
 
 Ich habe versucht zu schlafen, aber dann kam das Gewitter. Und eben wurden wir von einem verzweifelten Hilfeschrei geweckt, begleitet von einem hektischen Klopfen am Fenster im Flur. Klara und Leo haben tief geschlafen – wie sie das bei dem Lärm schaffen, ist mir ein Rätsel. Aber Genevieve war wach und sah genauso verängstigt aus wie ich.
 
@@ -76,11 +77,3 @@ Das erste, was es fragte, war, ob das hier schon London sei. Es hat eine Stimme 
 Ich stand nur da und habe versucht, zu verstehen, wie ein Mustelide kognitiv zur Sprache fähig sein kann. Mein Gehirn hat sich angefühlt wie Wackelpudding. Ich weiß nicht, ob ich träume oder verrückt geworden bin. Ich weiß nur, dass die Regeln der Naturwissenschaften hier nicht nur nicht gelten, sie werden aktiv verspottet.
 
 Colin Wheeler kam dazu und war ganz aufgeregt. Er hat das Wesen als einen „Jarvey“ identifiziert. Ich weiß nicht, was das ist. Es steht definitiv nicht in Brehms Tierleben. Genevieve und ich konnten das Tier schließlich überreden, in Colins Zimmer zu schlafen um am nächsten Tag alles zu klären. Wir sind wieder ins Bett gegangen. Aber wie soll ich jetzt schlafen, wenn ich weiß, dass Wiesel mit Hüten draußen herum fliegen und reden können?
-
-
----
-```
-This file is located at: {{ page.path }}
-```
----
-    
