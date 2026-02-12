@@ -13,7 +13,7 @@ Das Gute, das Unlogische und das, was mir Angst macht.
 
 Betrachte diese Seiten als meinen Versuch, den Überblick zu behalten, während um mich herum alles explodiert (manchmal wörtlich). Solange ich es dir erzählen kann, ist es handhabbar.
 
-Du bist mein Stück Zuhause.
+Du bist mein Stück Zuhause. Vergiss das niemals.
 
 In Liebe,
 
