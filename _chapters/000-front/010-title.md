@@ -1,22 +1,34 @@
 ---
 slug: book
 title: Ellas Tagebuch
-abstract: Ella ist ein 11 jähriges Mädchen, das im Jahr 1950 ihre Reise nach Hogwarts antritt und ein Tagebuch führt, in dem sie alles wichtige festhält, was ihr passiert und wie sie sich fühlt.
+abstract:
 ---
 
-von Ella Lockwood
 
-Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
+<span style="font-size:20px;">FÜR SARAH.</span>
 
-Last updated: {{ "now" | date: "%B %e, %Y" }}
+**EIGENTUM VON ELLA LOCKWOOD**
 
-{% if site.baseurl_canonical %}
-  The latest version of this book can always be found at  
-  <a href="{{site.baseurl_canonical}}{{page.url}}">{{site.baseurl_canonical}}{{page.url}}</a>.
-{% endif %}
 
----
-```
-This file is located at: {{ page.path }}
-```
----
+
+
+
+
+
+
+
+
+
+<span style="font-size:13px;">
+Adresse:
+Eleonor Lockwood
+2551 London Rd
+HARROW
+Stanmore K9 7UL
+Vereinigtes Königreich
+
+Datum der Erstaufzeichnung: 30. August 1950
+
+(Falls dieses Heft gefunden wird: Bitte nicht lesen.
+Es enthält unüberprüfte Hypothesen und private Daten.
+Bitte an die oben genannte Person übergeben. Danke.)</span>

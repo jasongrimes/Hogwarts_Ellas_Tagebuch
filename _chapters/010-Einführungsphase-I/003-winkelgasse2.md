@@ -362,12 +362,12 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 | Datum | Betrag | Bezeichnung | Rechtfertigung |
 | :--- | :--- | :--- | :--- |
 | 30.08.1950 | + 300 G | Startkapital Gringotts | Darlehensaufnahme. Beginn der 7-Jahres-Frist. |
-|   | ± 0  G | Zauberstab | Kostenloses Erstexemplar |
+|   | ± 0  G | Zauberstab | Kostenloses Erstexemplar. |
 |   | - 55  G | Schuluniform<sup>1</sup> (Madam Malkins) | Notwendige Grundausstattung. Qualität erscheint robust. |
 |   | - 245  G | Verlust: Diebstahl (Niffler) | Unfreiwillige Entnahme. Ursache: Pelzige höhere Gewalt. |
 |   | + 245  G | Korrektur: Rückführung Diebstahl (Niffler) | Bestände wieder vollständig. |
 |   | ± 50  G | Equipment<sup>2</sup> (Potages Kesselladen, Slug & Jiggers, Freud & Leid) | Erforderliche Arbeitsmaterialien. |
-|   | ± 56  G | Schulbücher<sup>3</sup> (Flourish & Blotts) | Unumgängliche Pflichtausgaben für Bildung |
+|   | ± 56  G | Schulbücher<sup>3</sup> (Flourish & Blotts) | Unumgängliche Pflichtausgaben für Bildung. |
 
 
 NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">139 G</span>
