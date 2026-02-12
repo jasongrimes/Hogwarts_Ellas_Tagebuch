@@ -379,7 +379,9 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 (Rechtfertigung: Unumgängliche Pflichtausgaben für Bildung)
 
 NEUER SALDO:<span style="text-decoration: underline; text-decoration-style: double;"> 139 G</span>
+
 —
+
 _AUFSCHLÜSSELUNG_
 <sup>1</sup> Bekleidung: 3x Arbeitskleidung, Spitzhut, Schutzhandschuhe, Winterumhang.
 <sup>2</sup> Equipment: 1 Zinnkessel Normgröße 2 (23G), 1 Sortiment Glasfläschen mit 1 Messingwaage (2G), 1 Teleskop (15G), Tasche (10G).
