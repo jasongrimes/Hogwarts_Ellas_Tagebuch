@@ -369,31 +369,6 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 |   | ± 56  G | Schulbücher<sup>3</sup> (Flourish & Blotts) | Unumgängliche Pflichtausgaben für Bildung |
 
 
-
-
-
-
-30.08. | + 300 G | Startkapital Gringotts
-(Kommentar: Darlehensaufnahme. Beginn der 7-Jahres-Frist.)
-
-| ± 0  G | Kauf: Zauberstab (Ollivanders)
-(Rechtfertigung: kostenloses Erstexemplar)
-
-| - 55 G | Kauf: Schuluniform<sup>1</sup> (Madam Malkins)
-(Rechtfertigung: Notwendige Grundausstattung. Qualität erscheint robust.)
-
-| - 245 G | Verlust: Diebstahl (Niffler)
-(Kommentar: Unfreiwillige Entnahme. Ursache: Pelzige höhere Gewalt.)
-
-| + 245 G | Korrektur: Rückführung Diebstahl (Niffler)
-(Kommentar: Bestände wieder vollständig.)
-
-| - 50 G | Kauf: Equipment<sup>2</sup> (Potages Kesselladen, Slug & Jiggers, Freud & Leid)
-(Rechtfertigung: Erforderliche Arbeitsmaterialien.)
-
-| - 56 G | Kauf: Schulbücher<sup>3</sup> (Flourish & Blotts)
-(Rechtfertigung: Unumgängliche Pflichtausgaben für Bildung)
-
 NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">139 G</span>
 
 —
@@ -404,7 +379,14 @@ _AUFSCHLÜSSELUNG_
 
 <sup>2</sup> Equipment: 1 Zinnkessel Normgröße 2 (23G), 1 Sortiment Glasfläschen mit 1 Messingwaage (2G), 1 Teleskop (15G), Tasche (10G).
 
-<sup>3</sup> Schulbücher (7 x 8 G): Rita Habicht: *Die Enzyklopädie der Zaubersprüche, Band 1*; Bathilda Bagshot: *Geschichte der Zauberei*; Emeric Wendel: *Verwandlung für Anfänger*; Phyllida Spore: *Tausend Zauberkräuter und -pilze*; Arsenius Bunsen: *Zaubertränke und Zauberbräue*; Newt Scamander: *Phantastische Tierwesen und wo sie zu finden sind*; Quirin Sumo: *Dunkle Kräfte. Ein Kurs zur Selbstverteidigung*.
+<sup>3</sup> Schulbücher (7 x 8 G): 
+- Rita Habicht: *Die Enzyklopädie der Zaubersprüche, Band 1*
+- Bathilda Bagshot: *Geschichte der Zauberei*
+- Emeric Wendel: *Verwandlung für Anfänger*;
+- Phyllida Spore: *Tausend Zauberkräuter und -pilze*;
+- Arsenius Bunsen: *Zaubertränke und Zauberbräue*;
+- Newt Scamander: *Phantastische Tierwesen und wo sie zu finden sind*;
+- Quirin Sumo: *Dunkle Kräfte. Ein Kurs zur Selbstverteidigung*.
 
 
 
