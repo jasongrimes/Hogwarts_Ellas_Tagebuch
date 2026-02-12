@@ -20,6 +20,7 @@ Und die Würfel entscheiden über Erfolg oder Niederlage.
 Wenn Ella also im Tagebuch schreibt, dass sie vor Angst erstarrt ist oder einen Zauberspruch grandios vermasselt hat, dann habe ich als Spielerin wahrscheinlich einfach schlecht gewürfelt. Das macht die Geschichte so unvorhersehbar und echt.
 
 **Ein riesiges Dankeschön an den Architekten der Magie**
+
 Dieses Projekt wäre unmöglich ohne unseren fantastischen Game Master. Er hat sich nicht einfach ein fertiges Buch geschnappt, sondern sich hingesetzt und von Null an ein komplett eigenes Regelsystem entwickelt. Er hat Mechaniken für Zauberduelle, Braukunst und den Schulalltag entworfen, die perfekt auf die Lore der Wizarding World abgestimmt sind. Jeder NPC, jeder Winkel des Schlosses und jeder Plottwist ist das Ergebnis seiner harten Arbeit, seiner Liebe zum Detail und seiner Geduld mit uns Spielern (die sehr oft Chaos stiften).
 
 Danke, dass du uns nach Hogwarts bringst!
