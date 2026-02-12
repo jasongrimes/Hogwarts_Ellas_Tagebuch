@@ -1,10 +1,10 @@
 ---
 slug: book
-title: Demo Book
-abstract: An example book for showcasing the Jekyll Chapterbook theme.
+title: Ellas Tagebuch
+abstract: Ella ist ein 11 jähriges Mädchen, das im Jahr 1950 ihre Reise nach Hogwarts antritt und ein Tagebuch führt, in dem sie alles wichtige festhält, was ihr passiert und wie sie sich fühlt.
 ---
 
-By Jason Grimes
+von Ella Lockwood
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
