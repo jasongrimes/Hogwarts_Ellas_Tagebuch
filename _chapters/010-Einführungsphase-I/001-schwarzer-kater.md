@@ -5,7 +5,7 @@ abstract: Ella kommt im 'Schwarzen Kater' an.
 date: 1950-08-29
 ---
 
-<img src="/assets/session_pics/Ella_S01_Diary_header.png" alt="S01 Header">
+<img src="assets/session_pics/Ella_S01_Diary_header.png" alt="S01 Header">
 
 <br>
 <br>
@@ -85,4 +85,4 @@ Colin Wheeler kam dazu und war ganz aufgeregt. Er hat das Wesen als einen „Jar
 
 ---
 
-<img src="/assets/session_pics/Ella_S01_Diary_full.png" alt="S01 Full">
+<img src="assets/session_pics/Ella_S01_Diary_full.png" alt="S01 Full">
