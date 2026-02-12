@@ -4,7 +4,7 @@ slug: schwarzer-kater
 abstract: Ellas Ankunft im 'Schwarzen Kater'
 date: 1950-08-29
 ---
-##**29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
+## **29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
 
 Liebe Sarah,
