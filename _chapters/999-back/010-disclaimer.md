@@ -5,10 +5,14 @@ disable_toc: true
 #class: references
 ---
 
+
+<br><br><br>
+
 _1. Unabhängigkeit des Projekts_
 
-Dieses Tagebuch und die damit verbundenen Spielinhalte sind ein rein privates, nicht-kommerzielles Homebrew-RPG-Fanprojekt. Es besteht keinerlei Verbindung, Kooperation oder geschäftliche Beziehung zu J.K. Rowling, ihren Vertretern oder den offiziellen Lizenzhaltern der „Wizarding World“. Dieses Projekt wird von Fans für Fans gestaltet, um einen kreativen Raum für kollaboratives Storytelling zu schaffen.
+Dieses fiktive Tagebuch und die damit verbundenen Spielinhalte sind ein rein privates, nicht-kommerzielles Homebrew-RPG-Fanprojekt. Es besteht keinerlei Verbindung, Kooperation oder geschäftliche Beziehung zu J.K. Rowling, ihren Vertretern oder den offiziellen Lizenzhaltern der „Wizarding World“. Dieses Projekt wird von Fans für Fans gestaltet, um einen kreativen Raum für kollaboratives Storytelling zu schaffen.
 
+<br>
 
 _2. Ausdrückliche Distanzierung von der Urheberin_
 
@@ -16,6 +20,7 @@ Wir distanzieren uns hiermit in aller Deutlichkeit und aufs Schärfste von den p
 
 Wir verurteilen jede Rhetorik, die die Existenz, die Rechte oder die Sicherheit von transgeschlechtlichen Menschen infrage stellt oder diese als Bedrohung darstellt. Die von der Autorin vertretenen Ansichten stehen in diametralem Gegensatz zu den Werten dieses Projekts. Niemand, der an dieser Erzählung mitwirkt, teilt, unterstützt oder legitimiert ihre transfeindlichen Positionen.
 
+<br>
 
 _3. Die Philosophie der Rückeroberung („Reclaiming the Magic“)_
 
@@ -28,6 +33,7 @@ Dieses Projekt entspringt der Überzeugung, dass eine geschaffene Welt ab einem 
 
 *Vielfalt im Kanon:* In unserem Homebrew-Universum ist kein Platz für Exklusion. Wir feiern die Vielfalt der Geschlechter, Identitäten und Lebensentwürfe als integralen Bestandteil der Magie selbst.
 
+<br>
 
 _4. Schlusswort_
 
