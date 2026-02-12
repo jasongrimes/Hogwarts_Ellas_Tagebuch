@@ -4,7 +4,7 @@ title: Jekyll Chapterbook Theme
 permalink: /
 ---
 
-This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.gitbook.com/) that adds support for easily organizing pages into book chapters and parts.
+This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.gitbook.com/) that adds support for easily organizing pages into book chapters and schuljahrs.
 It doesn't rely on any plugins,
 so it works natively with [GitHub Pages](https://pages.github.com/).
 
@@ -31,18 +31,18 @@ Also see its
 ## Why this theme
 
 This theme is intended to help with gradually writing a book over a long period of time,
-starting from an idea and slowly building out chapters and parts.
+starting from an idea and slowly building out chapters and schuljahrs.
 
 It was created with the following objectives:
 
 - Output a portable, flat folder of static html that can be used offline or hosted anywhere.
-- Support all standard parts of a book, including front matter, back matter, chapters, parts, etc.
-- Support frequently reorganizing chapters and parts without breaking existing links.
+- Support all standard schuljahrs of a book, including front matter, back matter, chapters, schuljahrs, etc.
+- Support frequently reorganizing chapters and schuljahrs without breaking existing links.
 - Make the work in progress publicly available in a useful way, 
   while making drafts that aren't ready for public consumption available without interrupting the flow of completed chapters.
 - Support quickly editing the book on-the-fly, especially from mobile.
 - Run natively on GitHub Pages without custom plugins.
-- Automatically number parts and chapters.
+- Automatically number schuljahrs and chapters.
 - Make the markdown source files for each chapter  appear in order on the filesystem and on GitHub,
   regardless of the chapter name, without having to manually renumber.
   (This makes it easier to find the page you want to edit.)
@@ -155,7 +155,7 @@ but in this case it works well for the following reasons.
 
 - There aren't that many HTML pages. With one page per chapter, even an enormous book will end up with only a handful of HTML pages.
 - The theme provides a lot of structured metadata to make the page organization explicit and clear to search engines and other automated tools. The folder hierarchy isn't needed to convey this information.
-- With a flat folder structure, the book can be reorganized without breaking existing links. Chapters can be reorganized, parts can be added and removed, titles can be changed, but as long as the `slug` stays the same, links continue to work.
+- With a flat folder structure, the book can be reorganized without breaking existing links. Chapters can be reorganized, schuljahrs can be added and removed, titles can be changed, but as long as the `slug` stays the same, links continue to work.
 - A flat folder structure allows browsing the generated HTML pages offline. Perhaps surprisingly, even static site generators typically create HTML pages that depend on some routing capabilities of a web server, and can't be run on a local file system. A flat HTML folder solves this problem magically.
 
 ### Chapter file names
@@ -195,15 +195,15 @@ _chapters/
     040-conclusion.md
 ```
 
-### Part directories
+### Schuljahr directories
 
-Chapters can optionally be grouped into "Parts",
+Chapters can optionally be grouped into "Schuljahrs",
 by adding subdirectories to the `_chapters` directory,
 and moving the chapter files into them.
-Part directory names should begin with a number so they appear in the correct order,
+Schuljahr directory names should begin with a number so they appear in the correct order,
 just like chapters.
 But unlike chapters, 
-the directory name (without the numeric prefix) is also shown in the book as the part name. 
+the directory name (without the numeric prefix) is also shown in the book as the schuljahr name. 
 
 ```
 _chapters/
@@ -215,7 +215,7 @@ _chapters/
         030-blather.md
 ```
 
-### Special parts for book front and back matter
+### Special schuljahrs for book front and back matter
 
 Books typically include material at the front,
 like a table of contents and introduction,
@@ -226,13 +226,13 @@ this is called "front matter" and "back matter",
 not to be confused with the "front matter" variables in Jekyll pages).
 
 This front and back matter is not included in the rest of the book's chapter and page numbering,
-and it is never grouped into a "part",
+and it is never grouped into a "schuljahr",
 even when the other chapters are.
 
 To support this special material,
-there are two optional special part directories:
+there are two optional special schuljahr directories:
 `000-front/` and `999-back/`.
-Chapter pages stored in these special part directories appear before or after the other parts,
+Chapter pages stored in these special schuljahr directories appear before or after the other schuljahrs,
 and the chapters within them are not numbered.
 
 ```
@@ -255,36 +255,36 @@ The above would render as something like this:
 - Contents
 - Preface
 - Introduction
-- Part I: Thesis
+- Schuljahr I: Thesis
   - Chapter 1: Overview of my thesis
   - Chapter 2: Blah, I say
-- Part II: Antithesis
+- Schuljahr II: Antithesis
   - Chapter 3: Under the overview
   - Chapter 4: Not blah, I retort
 - References
 
-See a live site with multiple parts and front and back matter at
+See a live site with multiple schuljahrs and front and back matter at
 [fretboardfoundation.com](https://fretboardfoundation.com)
 and its [_chapters/](https://github.com/jasongrimes/fretboardfoundation/tree/main/_chapters) directory.
 
-### Part index pages
+### Schuljahr index pages
 
-To add a dedicated page for a part,
-with a subset of the table of contents for just the chapters in that part,
-create a part index page.
+To add a dedicated page for a schuljahr,
+with a subset of the table of contents for just the chapters in that schuljahr,
+create a schuljahr index page.
 
-In the part folder,
+In the schuljahr folder,
 add a file named `000-index.md`.
 Give it the following front matter:
 
 ```yaml
 ---
-slug: your-part-name
-layout: part
+slug: your-schuljahr-name
+layout: schuljahr
 ---
 ```
 
-See an example [part index in the demo](https://jasongrimes.github.io/jekyll-chapterbook/theme.html),
+See an example [schuljahr index in the demo](https://jasongrimes.github.io/jekyll-chapterbook/theme.html),
 and its source at [_chapters/010-chapterbook-theme/000-index.md](https://github.com/jasongrimes/jekyll-chapterbook/blob/master/_chapters/010-chapterbook-theme/000-index.md).
 
 ### Drafts and outlines
@@ -301,7 +301,7 @@ set `show_drafts_in_dev: true` in [_config.yml](https://github.com/jasongrimes/j
 But drafts _are_ listed in the book "outline".
 This enables a workflow in which you start with an outline of your book,
 made with empty draft chapters having just a `title` and maybe an `abstract`,
-ordered and grouped into parts as needed (and frequently reorganized).
+ordered and grouped into schuljahrs as needed (and frequently reorganized).
 
 Then you can flesh out the chapters over time,
 and when ready,
@@ -457,7 +457,7 @@ See an [example figure](https://jasongrimes.github.io/jekyll-chapterbook/helpers
 
 ### Theme variables
 
-The `chapter-vars.html` helper sets a number of variables related to chapters and parts
+The `chapter-vars.html` helper sets a number of variables related to chapters and schuljahrs
 which can be accessed in markdown files or Liquid templates.
 It can also render the variables for inspection, 
 to help with debugging.
@@ -465,7 +465,7 @@ to help with debugging.
 Parameters:
 - `id`: The `page.id` of the chapter page for which to set variables.
 - `slug`: The `page.slug` of the chapter page for which to set variables (ignored if `id` is passed).
-- `withnum`: For performance reasons, chapter and part numbers are not computed unless `withnum` is `true`. (To compute only chapter or only part numbers, set `withnum=part` or `withnum=chapter` instead.)
+- `withnum`: For performance reasons, chapter and schuljahr numbers are not computed unless `withnum` is `true`. (To compute only chapter or only schuljahr numbers, set `withnum=schuljahr` or `withnum=chapter` instead.)
 - `inspect`: If true, render the variables to the page, for debugging.
 
 See [example chapter vars](https://jasongrimes.github.io/jekyll-chapterbook/variables.html) in the demo.

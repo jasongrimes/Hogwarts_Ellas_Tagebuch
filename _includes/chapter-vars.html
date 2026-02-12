@@ -3,18 +3,18 @@
 {% assign chapter_is_visible = nil %}
 {% assign chapter_sort_index = nil %}
 {% assign chapter_sort_index_ext = nil %}
-{% assign chapter_is_part_index = nil %}
-{% assign part_label = nil %}
-{% assign part_unnumbered = nil %}
-{% assign part_is_draft = nil %}
-{% assign part_folder = nil %}
-{% assign part_sort_index = nil %}
-{% assign part_sort_index_ext = nil %}
-{% assign part_index_chapter = nil %}
+{% assign chapter_is_schuljahr_index = nil %}
+{% assign schuljahr_label = nil %}
+{% assign schuljahr_unnumbered = nil %}
+{% assign schuljahr_is_draft = nil %}
+{% assign schuljahr_folder = nil %}
+{% assign schuljahr_sort_index = nil %}
+{% assign schuljahr_sort_index_ext = nil %}
+{% assign schuljahr_index_chapter = nil %}
 
 {% comment %} Only set if specified via include.withnum: {% endcomment %}
 {% assign chapter_num = nil %}
-{% assign part_num = nil %}
+{% assign schuljahr_num = nil %}
 
 {% if include.id %}
   {% assign chapter = site.chapters | where: "id", include.id | first %}
@@ -30,13 +30,13 @@
   {% assign chapter_basename = chapter.path | split: "/" | last %}
   {% assign chapter_sort_index = chapter_basename | split: "-" | first %}
   {% assign chapter_sort_index_ext = nil %}
-  {% assign chapter_is_part_index = false %}
+  {% assign chapter_is_schuljahr_index = false %}
 
   {% if chapter_basename == "000-index.md" %}
-    {% assign chapter_is_part_index = true %}
+    {% assign chapter_is_schuljahr_index = true %}
   {% endif %}
 
-  {% unless chapter_is_part_index %}
+  {% unless chapter_is_schuljahr_index %}
     {% if chapter_sort_index contains "." %}
       {% assign chapter_sort_index_ext = chapter_sort_index | split: "." | last %}
     {% endif %}
@@ -49,49 +49,49 @@
     {% endunless %}
   {% endif %}
 
-  {% assign part_folder = chapter.path | split: "/" | slice: -2 | first %}
-  {% if part_folder == "_chapters" %}
-    {% assign part_folder = nil %}
+  {% assign schuljahr_folder = chapter.path | split: "/" | slice: -2 | first %}
+  {% if schuljahr_folder == "_chapters" %}
+    {% assign schuljahr_folder = nil %}
   {% endif %}
-  {% if part_folder %}
-    {% assign part_sort_index = part_folder | split: "-" | first %}
-    {% if part_sort_index contains "." %}
-      {% assign part_sort_index_ext = part_sort_index | split: "." | last %}
+  {% if schuljahr_folder %}
+    {% assign schuljahr_sort_index = schuljahr_folder | split: "-" | first %}
+    {% if schuljahr_sort_index contains "." %}
+      {% assign schuljahr_sort_index_ext = schuljahr_sort_index | split: "." | last %}
     {% else %}
-      {% assign part_sort_index_ext = nil %}
+      {% assign schuljahr_sort_index_ext = nil %}
     {% endif %}
 
-    {% capture part_index_path %}_chapters/{{ part_folder}}/000-index.md{% endcapture %}
-    {% assign part_index_chapter = site.chapters | where: "path", part_index_path | first  %}  
+    {% capture schuljahr_index_path %}_chapters/{{ schuljahr_folder}}/000-index.md{% endcapture %}
+    {% assign schuljahr_index_chapter = site.chapters | where: "path", schuljahr_index_path | first  %}  
 
-    {% if part_sort_index_ext == "draft" %}
-      {% assign part_is_draft = true %}
+    {% if schuljahr_sort_index_ext == "draft" %}
+      {% assign schuljahr_is_draft = true %}
     {% else %}
-      {% assign part_is_draft = false %}
+      {% assign schuljahr_is_draft = false %}
     {% endif %}
 
-    {% if part_sort_index == "000" or part_sort_index == "999" %}
-      {% assign part_unnumbered = true %}
-      {% assign part_label = nil %}
+    {% if schuljahr_sort_index == "000" or schuljahr_sort_index == "999" %}
+      {% assign schuljahr_unnumbered = true %}
+      {% assign schuljahr_label = nil %}
     {% else %}
-      {% assign part_unnumbered = false %}
-      {% assign part_label = part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% assign schuljahr_unnumbered = false %}
+      {% assign schuljahr_label = schuljahr_folder | split: "-" | shift | join: " " | capitalize %}
     {% endif %}
   {% endif %}
 
-  {% comment %} Get part and chapter numbers {% endcomment %}
+  {% comment %} Get schuljahr and chapter numbers {% endcomment %}
   {% if include.withnum %}
-    {% unless part_unnumbered %}
+    {% unless schuljahr_unnumbered %}
       {% if include.withnum == "chapter" and chapter_is_draft %}
         {% assign chapter_num = "X" %}
       {% elsif include.withnum == "chapter" and chapter_is_visible != true %}
         {% assign chapter_num = "" %}
-      {% elsif include.withnum == "chapter" and chapter_is_part_index %}
+      {% elsif include.withnum == "chapter" and chapter_is_schuljahr_index %}
         {% assign chapter_num = "" %}
-      {% elsif include.withnum == "part" and part_is_draft %}
-        {% assign part_num = "X" %}
-      {% elsif part_is_draft and chapter_is_draft %}
-        {% assign part_num = "X" %}
+      {% elsif include.withnum == "schuljahr" and schuljahr_is_draft %}
+        {% assign schuljahr_num = "X" %}
+      {% elsif schuljahr_is_draft and chapter_is_draft %}
+        {% assign schuljahr_num = "X" %}
         {% assign chapter_num = "X" %}
       {% else %}
         {% comment %} Iterate over chapters if it can't be avoided {% endcomment %}
@@ -99,7 +99,7 @@
         {% for i in (0..site.chapters.size) %}
           {% if chapter.id == i_chapter.id %}
             {% assign chapter_num = i_chapter_num %}
-            {% assign part_num = i_part_num %}
+            {% assign schuljahr_num = i_schuljahr_num %}
           {% else %}
             {% include chapter-iterate-next.html %}
           {% endif %}
@@ -171,8 +171,8 @@
       <td>{{ chapter_is_visible }}</td>
     </tr>
     <tr>
-      <th>chapter_is_part_index</th>
-      <td>{{ chapter_is_part_index }}</td>
+      <th>chapter_is_schuljahr_index</th>
+      <td>{{ chapter_is_schuljahr_index }}</td>
     </tr>
     <tr>
       <th>chapter_sort_index</th>
@@ -184,36 +184,36 @@
     </tr>
     <tr>
       <th colspan="2" class="divider">
-        Part metadata
+        Schuljahr metadata
       </th>
     </tr>
     <tr>
-      <th>part_label</th>
-      <td>{{ part_label }}</td>
+      <th>schuljahr_label</th>
+      <td>{{ schuljahr_label }}</td>
     </tr>
     <tr>
-      <th>part_unnumbered</th>
-      <td>{{ part_unnumbered }}</td>
+      <th>schuljahr_unnumbered</th>
+      <td>{{ schuljahr_unnumbered }}</td>
     </tr>
     <tr>
-      <th>part_is_draft</th>
-      <td>{{ part_is_draft }}</td>
+      <th>schuljahr_is_draft</th>
+      <td>{{ schuljahr_is_draft }}</td>
     </tr>
     <tr>
-      <th>part_folder</th>
-      <td>{{ part_folder }}</td>
+      <th>schuljahr_folder</th>
+      <td>{{ schuljahr_folder }}</td>
     </tr>
     <tr>
-      <th>part_sort_index</th>
-      <td>{{ part_sort_index }}</td>
+      <th>schuljahr_sort_index</th>
+      <td>{{ schuljahr_sort_index }}</td>
     </tr>
     <tr>
-      <th>part_sort_index_ext</th>
-      <td>{{ part_sort_index_ext }}</td>
+      <th>schuljahr_sort_index_ext</th>
+      <td>{{ schuljahr_sort_index_ext }}</td>
     </tr>
     <tr>
-      <th>part_index_chapter.url</th>
-      <td>{{ part_index_chapter.url }}</td>
+      <th>schuljahr_index_chapter.url</th>
+      <td>{{ schuljahr_index_chapter.url }}</td>
     </tr>
     <tr>
       <th colspan="2" class="divider">
@@ -225,8 +225,8 @@
       <td>{{ chapter_num }}</td>
     </tr>
     <tr>
-      <th>part_num</th>
-      <td>{{ part_num }}</td>
+      <th>schuljahr_num</th>
+      <td>{{ schuljahr_num }}</td>
     </tr>
   </table>
 {% endif %}

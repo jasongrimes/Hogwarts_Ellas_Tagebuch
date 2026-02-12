@@ -41,23 +41,23 @@ layout: default
         </li>
       {% endif %}
 
-      {% if page_chapter_is_part_index and page_part_num%}
-        <li class="breadcrumb-part no-arrow">
-          Part {{ page_part_num }}:
+      {% if page_chapter_is_schuljahr_index and page_schuljahr_num%}
+        <li class="breadcrumb-schuljahr no-arrow">
+          Schuljahr {{ page_schuljahr_num }}:
         </li>
       {% endif %}
 
-      {% if page_chapter and page_chapter_is_part_index != true %}
-        {% unless page_part_unnumbered and page_chapter_num == nil %}
+      {% if page_chapter and page_chapter_is_schuljahr_index != true %}
+        {% unless page_schuljahr_unnumbered and page_chapter_num == nil %}
 
-          {% if page_part_folder %}
-            {% unless page_part_unnumbered %}
-              <li class="breadcrumb-part">
-                {% if page_part_index_chapter %}
-                  <a href="{{ site.baseurl }}{{ page_part_index_chapter.url }}">
+          {% if page_schuljahr_folder %}
+            {% unless page_schuljahr_unnumbered %}
+              <li class="breadcrumb-schuljahr">
+                {% if page_schuljahr_index_chapter %}
+                  <a href="{{ site.baseurl }}{{ page_schuljahr_index_chapter.url }}">
                 {% endif %}
-                Part {{ page_part_num }}: {{ page_part_label }}
-                {% if page_part_index_chapter %}
+                Schuljahr {{ page_schuljahr_num }}: {{ page_schuljahr_label }}
+                {% if page_schuljahr_index_chapter %}
                   </a>
                 {% endif %}
               </li>
@@ -74,11 +74,11 @@ layout: default
       {% endif %}
     </ul>
   </nav>
-{% if page_chapter_is_part_index %}
+{% if page_chapter_is_schuljahr_index %}
 
-  {% if page_part_num or page_part_label %}
-      <h1 class="heading-chapter-title heading-part">       
-        {{ page_part_label | escape }}
+  {% if page_schuljahr_num or page_schuljahr_label %}
+      <h1 class="heading-chapter-title heading-schuljahr">       
+        {{ page_schuljahr_label | escape }}
       </h1>
   {% endif %}
 {% else %}
@@ -98,7 +98,7 @@ layout: default
     </div>
   {% endif %}
 
-  {% if site.in_chapter_toc.enabled and page.disable_toc != true and page_chapter_is_part_index != true %}
+  {% if site.in_chapter_toc.enabled and page.disable_toc != true and page_chapter_is_schuljahr_index != true %}
     {% capture in_chapter_toc %}
       {% include toc.html html=content h_min=site.sidebar_toc.h_min h_max=site.sidebar_toc.h_max %}{% endcapture %}
     {% capture in_chapter_toc %}{{ in_chapter_toc | strip }}{% endcapture %}
@@ -122,8 +122,8 @@ layout: default
   <div class="chapter-pager">
 
     {% if page_next_chapter %}
-      {% if page_next_chapter_is_part_index %}
-        {% assign next_title = page_next_part_label %}
+      {% if page_next_chapter_is_schuljahr_index %}
+        {% assign next_title = page_next_schuljahr_label %}
       {% else %}
         {% assign next_title = page_next_chapter.title %}
       {% endif %}
@@ -137,13 +137,13 @@ layout: default
           <i class="fa fa-arrow-right"></i>
         </div>
         <div class="pager-labels">
-          <div class="part">
+          <div class="schuljahr">
             Next:
-            {% if page_next_chapter_is_part_index %}
-              Part {{ page_next_part_num }}.
+            {% if page_next_chapter_is_schuljahr_index %}
+              Schuljahr {{ page_next_schuljahr_num }}.
             {% else %}
-              {% if page_next_part_label %}
-                {{ page_next_part_label }}
+              {% if page_next_schuljahr_label %}
+                {{ page_next_schuljahr_label }}
                 {% if page_next_chapter_num %} &#8250;{% endif %}
               {% endif %}
               {% if page_next_chapter_num %}Chapter {{ page_next_chapter_num }}.{% endif %}
@@ -157,8 +157,8 @@ layout: default
     {% endif %}
 
     {% if page_prev_chapter %}
-      {% if page_prev_chapter_is_part_index %}
-        {% assign prev_title = page_prev_part_label %}
+      {% if page_prev_chapter_is_schuljahr_index %}
+        {% assign prev_title = page_prev_schuljahr_label %}
       {% else %}
         {% assign prev_title = page_prev_chapter.title %}
       {% endif %}
@@ -172,13 +172,13 @@ layout: default
           <i class="fa fa-arrow-left"></i>
         </div>
         <div class="pager-labels">
-          <div class="part">
+          <div class="schuljahr">
             Previous:
-            {% if page_prev_chapter_is_part_index %}
-              Part {{ page_prev_part_num }}.
+            {% if page_prev_chapter_is_schuljahr_index %}
+              Schuljahr {{ page_prev_schuljahr_num }}.
             {% else %}
-              {% if page_prev_part_label %}
-                {{ page_prev_part_label }}
+              {% if page_prev_schuljahr_label %}
+                {{ page_prev_schuljahr_label }}
                 {% if page_prev_chapter_num %}&#8250;{% endif %}
               {% endif %}
               {% if page_prev_chapter_num %}Chapter {{ page_prev_chapter_num }}.{% endif %}

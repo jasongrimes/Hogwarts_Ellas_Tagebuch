@@ -84,7 +84,7 @@ For example:
 
 ## Theme variables
 
-This theme makes a number of variables related to chapters and parts available to markdown files and Liquid templates.
+This theme makes a number of variables related to chapters and schuljahrs available to markdown files and Liquid templates.
 
 See {% include chapter-link.html slug="variables" %} for details.
 

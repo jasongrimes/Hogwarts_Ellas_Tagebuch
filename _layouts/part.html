@@ -2,14 +2,14 @@
 layout: chapter
 ---
 
-<div class="part-index">
+<div class="schuljahr-index">
   <section class="normal markdown-section">
     {{ content }}
   </section>
 
   {% include chapter-vars.html id=page.id %}
 
-  {% if part_folder %}
-    {% include chapterbook-toc.html part=part_folder %}
+  {% if schuljahr_folder %}
+    {% include chapterbook-toc.html schuljahr=schuljahr_folder %}
   {% endif %}
 </div>

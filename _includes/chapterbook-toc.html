@@ -1,4 +1,4 @@
-<ul class="toc-chapters-full {% if include.part %}part{% endif %} {% if include.show_drafts %}show-drafts{% endif %}">
+<ul class="toc-chapters-full {% if include.schuljahr %}schuljahr{% endif %} {% if include.show_drafts %}show-drafts{% endif %}">
 
   {% include chapter-iterate-init.html %}
 
@@ -9,19 +9,19 @@
       {% continue %}
     {% endif %}
 
-    {% if include.part and include.part != i_part_folder %}
+    {% if include.schuljahr and include.schuljahr != i_schuljahr_folder %}
       {% include chapter-iterate-next.html %}
       {% continue %}
     {% endif %}
 
-    {% assign _is_new_part = false %}
-      {% if i_part_folder != i_prev_part_folder %}
-      {% assign _is_new_part = true %}
+    {% assign _is_new_schuljahr = false %}
+      {% if i_schuljahr_folder != i_prev_schuljahr_folder %}
+      {% assign _is_new_schuljahr = true %}
     {% endif %}
 
-    {% if _is_new_part and _in_nested_part %}
+    {% if _is_new_schuljahr and _in_nested_schuljahr %}
       </ul></li>
-      {% assign _in_nested_part = false %}
+      {% assign _in_nested_schuljahr = false %}
     {% endif %}
 
     {% unless i_chapter_is_visible %}
@@ -31,26 +31,26 @@
       {% endunless %}
     {% endunless %}
 
-    {% if _is_new_part and i_part_label %}
-      <li class="part">
-        <div class="part-label">
-          {% if i_chapter_is_part_index %}
+    {% if _is_new_schuljahr and i_schuljahr_label %}
+      <li class="schuljahr">
+        <div class="schuljahr-label">
+          {% if i_chapter_is_schuljahr_index %}
             <a href="{{site.baseurl}}{{i_chapter.url}}">
           {% endif %}
-          Part {{ i_part_num }}: {{ i_part_label }}
-          {% if i_chapter_is_part_index %}
+          Schuljahr {{ i_schuljahr_num }}: {{ i_schuljahr_label }}
+          {% if i_chapter_is_schuljahr_index %}
             </a>
           {% endif %}
         </div>
         <ul>
-      {% assign _in_nested_part = true %}
+      {% assign _in_nested_schuljahr = true %}
     {% endif %}
 
-    {% unless i_chapter_is_part_index %}
+    {% unless i_chapter_is_schuljahr_index %}
       <li class="chapter {% if include.show_drafts %}{% if i_chapter_is_draft %}draft{% else %}not-draft{% endif %}{% endif %}">
         <a href="{{site.baseurl}}{{ i_chapter.url }}">
           <div class="chapter-label">
-            {% unless i_part_unnumbered %}
+            {% unless i_schuljahr_unnumbered %}
               <span class="chapter-num">Chapter {{ i_chapter_num }}.</span>
             {% endunless %}
             {{ i_chapter.title | escape }}
@@ -67,8 +67,8 @@
     {% include chapter-iterate-next.html %}
   {% endfor %}
 
-  {% if _in_nested_part %}
+  {% if _in_nested_schuljahr %}
     </ul></li>
-    {% assign _in_nested_part = false %}
+    {% assign _in_nested_schuljahr = false %}
   {% endif %}
 </ul>

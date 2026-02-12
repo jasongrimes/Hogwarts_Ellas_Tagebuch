@@ -3,7 +3,7 @@
   {% if i_chapter %}
   {% comment %}
   #
-  # Determine if chapter is visible and/or draft and/or an index page for a part
+  # Determine if chapter is visible and/or draft and/or an index page for a schuljahr
   #
   {% endcomment %}
   {% assign i_chapter_is_draft = false %}
@@ -12,12 +12,12 @@
   {% assign i_chapter_sort_index = i_chapter_basename | split: "-" | first %}
   {% assign i_chapter_sort_index_ext = nil %}
 
-  {% assign i_chapter_is_part_index = false %}
+  {% assign i_chapter_is_schuljahr_index = false %}
   {% if i_chapter_basename == "000-index.md" %}
-    {% assign i_chapter_is_part_index = true %}
+    {% assign i_chapter_is_schuljahr_index = true %}
   {% endif %}
   
-  {% unless i_chapter_is_part_index %}
+  {% unless i_chapter_is_schuljahr_index %}
     {% if i_chapter_sort_index contains "." %}
       {% assign i_chapter_sort_index_ext = i_chapter_sort_index | split: "." | last %}
     {% endif %}
@@ -31,56 +31,56 @@
 
   {% comment %}
   #
-  # Determine part info other than number
+  # Determine schuljahr info other than number
   #
   {% endcomment %}
-  {% assign i_part_folder = i_chapter.path | split: "/" | slice: -2 | first %}
-  {% if i_part_folder == "_chapters" %}
-    {% assign i_part_folder = nil %}
-    {% assign i_part_unnumbered = false %}
-    {% assign i_part_label = nil %}
-    {% assign i_part_index_chapter = nil %}
+  {% assign i_schuljahr_folder = i_chapter.path | split: "/" | slice: -2 | first %}
+  {% if i_schuljahr_folder == "_chapters" %}
+    {% assign i_schuljahr_folder = nil %}
+    {% assign i_schuljahr_unnumbered = false %}
+    {% assign i_schuljahr_label = nil %}
+    {% assign i_schuljahr_index_chapter = nil %}
   {% endif %}
-  {% if i_part_folder %}
-    {% assign i_part_sort_index = i_part_folder | split: "-" | first %}
-    {% if i_part_sort_index contains "." %}
-      {% assign i_part_sort_index_ext = i_part_sort_index | split: "." | last %}
+  {% if i_schuljahr_folder %}
+    {% assign i_schuljahr_sort_index = i_schuljahr_folder | split: "-" | first %}
+    {% if i_schuljahr_sort_index contains "." %}
+      {% assign i_schuljahr_sort_index_ext = i_schuljahr_sort_index | split: "." | last %}
     {% else %}
-      {% assign i_part_sort_index_ext = nil %}
+      {% assign i_schuljahr_sort_index_ext = nil %}
     {% endif %}
 
-    {% if i_part_sort_index_ext == "draft" %}
-      {% assign i_part_is_draft = true %}
+    {% if i_schuljahr_sort_index_ext == "draft" %}
+      {% assign i_schuljahr_is_draft = true %}
     {% else %}
-      {% assign i_part_is_draft = false %}
+      {% assign i_schuljahr_is_draft = false %}
     {% endif %}
 
-    {% capture _part_index_path %}_chapters/{{ i_part_folder}}/000-index.md{% endcapture %}
-    {% assign i_part_index_chapter = site.chapters | where: "path", _part_index_path | first  %}  
+    {% capture _schuljahr_index_path %}_chapters/{{ i_schuljahr_folder}}/000-index.md{% endcapture %}
+    {% assign i_schuljahr_index_chapter = site.chapters | where: "path", _schuljahr_index_path | first  %}  
 
-    {% if i_part_sort_index == "000" or i_part_sort_index == "999" %}
-      {% assign i_part_unnumbered = true %}
-      {% assign i_part_label = nil %}
+    {% if i_schuljahr_sort_index == "000" or i_schuljahr_sort_index == "999" %}
+      {% assign i_schuljahr_unnumbered = true %}
+      {% assign i_schuljahr_label = nil %}
     {% else %}
-      {% assign i_part_unnumbered = false %}
-      {% assign i_part_label = i_part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% assign i_schuljahr_unnumbered = false %}
+      {% assign i_schuljahr_label = i_schuljahr_folder | split: "-" | shift | join: " " | capitalize %}
     {% endif %}
 
   {% endif %}
 
   {% comment %}
   #
-  # Determine part and chapter numbers
+  # Determine schuljahr and chapter numbers
   #
   {% endcomment %}
 
-  {% if i_part_unnumbered %}
+  {% if i_schuljahr_unnumbered %}
     {% assign i_chapter_num = nil %}
-    {% assign i_part_num = nil %}
+    {% assign i_schuljahr_num = nil %}
   {% else %}
     {% if i_chapter_is_draft %}
       {% assign i_chapter_num = "X" %}
-    {% elsif i_chapter_is_part_index %}
+    {% elsif i_chapter_is_schuljahr_index %}
       {% assign i_chapter_num = "" %}
     {% elsif i_chapter_is_visible %}
       {% assign i_chapter_num = i_last_numeric_chapter_num | plus: 1 %}
@@ -89,12 +89,12 @@
       {% assign i_chapter_num = "" %}
     {% endif %}
 
-    {% if i_part_folder and i_part_folder != i_prev_part_folder %}
-      {% if i_part_is_draft %}
-        {% assign i_part_num = "X" %}
+    {% if i_schuljahr_folder and i_schuljahr_folder != i_prev_schuljahr_folder %}
+      {% if i_schuljahr_is_draft %}
+        {% assign i_schuljahr_num = "X" %}
       {% else %}
-        {% assign i_part_num = i_last_numeric_part_num | plus: 1 %}
-        {% assign i_last_numeric_part_num = i_part_num %}
+        {% assign i_schuljahr_num = i_last_numeric_schuljahr_num | plus: 1 %}
+        {% assign i_last_numeric_schuljahr_num = i_schuljahr_num %}
       {% endif %}
     {% endif %}
   {% endif %}

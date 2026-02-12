@@ -1,7 +1,7 @@
 ---
 title: Theme variables
 slug: variables
-abstract: This theme makes a number of variables related to chapters and parts available to markdown files and Liquid templates.
+abstract: This theme makes a number of variables related to chapters and schuljahrs available to markdown files and Liquid templates.
 ---
 
 The `chapter-vars.html` helper sets a number of variables for this theme,
@@ -11,7 +11,7 @@ It can also render the variables for inspection.
 Parameters:
 - `id`: The `page.id` of the chapter page for which to set variables.
 - `slug`: The `page.slug` of the chapter page for which to set variables (ignored if `id` is passed).
-- `withnum`: For performance reasons, chapter and part numbers are not computed unless `withnum` is `true`. (To compute only chapter or only part numbers, set `withnum=part` or `withnum=chapter` instead.)
+- `withnum`: For performance reasons, chapter and schuljahr numbers are not computed unless `withnum` is `true`. (To compute only chapter or only schuljahr numbers, set `withnum=schuljahr` or `withnum=chapter` instead.)
 - `inspect`: If true, render the variables to the page, for debugging.
 
 To set variables for the current chapter:

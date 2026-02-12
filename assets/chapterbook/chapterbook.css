@@ -314,7 +314,7 @@ html {
 }
 */
 
-.header-chapter-num .part-label {
+.header-chapter-num .schuljahr-label {
     text-transform: uppercase;
     opacity: 0.7;
 }
@@ -380,12 +380,12 @@ html {
     right: 15px;
     text-align: right;
 }
-.chapter-pager .pager-labels .part {
+.chapter-pager .pager-labels .schuljahr {
     font-size: 12px;
     color: #999;
     margin-bottom: 5px;
 }
-.book.color-theme-1 .chapter-pager .pager-labels .part {
+.book.color-theme-1 .chapter-pager .pager-labels .schuljahr {
     color: #70421480;
 }
 .chapter-pager .pager-labels .chapter-label {
@@ -470,15 +470,15 @@ ul.toc-chapters-full.show-drafts {
 .toc-chapters-full a:hover .chapter-label {
     text-decoration: underline;
 }
-.toc-chapters-full li.part {
+.toc-chapters-full li.schuljahr {
     margin-top: 10px;
     margin-bottom: 5px;
 }
-.toc-chapters-full .part-label {
+.toc-chapters-full .schuljahr-label {
     text-transform: uppercase;
     margin-bottom: 5px;
 }
-.toc-chapters-full.show-drafts .part-label {
+.toc-chapters-full.show-drafts .schuljahr-label {
     margin-left: -20px;
 }
 .toc-chapters-full li.chapter {
@@ -564,7 +564,7 @@ table.inspect-chapter-iterate-vars th.divider {
 .book-summary ul.summary li.header a {
     padding: 0;
 }
-.part-index h1 {
+.schuljahr-index h1 {
     text-transform: uppercase;
 }
 
@@ -599,7 +599,7 @@ table.inspect-chapter-iterate-vars th.divider {
     content: '\203a';
 }
 
-.breadcrumb-part {
+.breadcrumb-schuljahr {
     text-transform: uppercase;
 }
 
@@ -613,6 +613,6 @@ table.inspect-chapter-iterate-vars th.divider {
 .heading-chapter-title {
     margin-top: 0.25em;
 }
-.heading-part {
+.heading-schuljahr {
     text-transform: uppercase;
 }

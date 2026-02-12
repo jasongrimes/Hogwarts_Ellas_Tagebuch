@@ -1,5 +1,5 @@
 ---
-layout: part
+layout: schuljahr
 slug: theme
 ---
 

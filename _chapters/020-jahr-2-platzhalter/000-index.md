@@ -1,4 +1,4 @@
 ---
 slug: dummies
-layout: part
+layout: schuljahr
 ---
