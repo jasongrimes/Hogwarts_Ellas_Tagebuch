@@ -378,14 +378,17 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 | - 56 G | Kauf: Schulbücher<sup>3</sup> (Flourish & Blotts)
 (Rechtfertigung: Unumgängliche Pflichtausgaben für Bildung)
 
-NEUER SALDO:<span style="text-decoration: underline; text-decoration-style: double;"> 139 G</span>
+NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">139 G</span>
 
 —
 
 _AUFSCHLÜSSELUNG_
+
 <sup>1</sup> Bekleidung: 3x Arbeitskleidung, Spitzhut, Schutzhandschuhe, Winterumhang.
+
 <sup>2</sup> Equipment: 1 Zinnkessel Normgröße 2 (23G), 1 Sortiment Glasfläschen mit 1 Messingwaage (2G), 1 Teleskop (15G), Tasche (10G).
-<sup>3</sup> Schulbücher (7 x 8G): Rita Habicht: *Die Enzyklopädie der Zaubersprüche, Band 1*; Bathilda Bagshot: *Geschichte der Zauberei*; Emeric Wendel: *Verwandlung für Anfänger*; Phyllida Spore: *Tausend Zauberkräuter und -pilze*; Arsenius Bunsen: *Zaubertränke und Zauberbräue*; Newt Scamander: *Phantastische Tierwesen und wo sie zu finden sind*; Quirin Sumo: *Dunkle Kräfte. Ein Kurs zur Selbstverteidigung*.
+
+<sup>3</sup> Schulbücher (7 x 8 G): Rita Habicht: *Die Enzyklopädie der Zaubersprüche, Band 1*; Bathilda Bagshot: *Geschichte der Zauberei*; Emeric Wendel: *Verwandlung für Anfänger*; Phyllida Spore: *Tausend Zauberkräuter und -pilze*; Arsenius Bunsen: *Zaubertränke und Zauberbräue*; Newt Scamander: *Phantastische Tierwesen und wo sie zu finden sind*; Quirin Sumo: *Dunkle Kräfte. Ein Kurs zur Selbstverteidigung*.
 
 
 
