@@ -133,7 +133,7 @@ Sarah, ich bekam Panik. Ich weiß noch nicht viel über diese Welt, aber eines h
 Er wusste es sofort. Und ich wusste, dass er es wusste. Und er wusste, dass ich wusste, dass er es wusste. Er hat nur herablassend gegrinst, als wäre ich nicht mal die Mühe wert, die Lüge aufzudecken, und ließ von mir ab.
 ​Stattdessen wandte er sich wieder Genevieve zu – die Einzige, die er offenbar für „würdig“ befand – und drückte ihr ein Papier  in die Hand. Er lud sie in den „Slug Club“ ein.
 
-Ich musste mir das Lachen verkneifen. „Slug“? Wie Nacktschnecke? Ernsthaft? Wie er es beschrieben hatte, klang es nach einem elitären, versnobten Zirkel für „besondere Talente“, aber warum benennen sie ihn nach schleimigen Gartenschädlingen? Und warum sollte jemand wie dieser parfümierte Malfoy da Mitglied sein wollen? Ich kann mir beim besten Willen nicht vorstellen, dass die elegante Genevieve eine verborgene Leidenschaft für Weichtiere hat.
+Ich musste mir das Lachen verkneifen. „Slug“? Wie *Nacktschnecke*? Ernsthaft? Wie er es beschrieben hatte, klang es nach einem elitären, versnobten Zirkel für „besondere Talente“, aber warum benennen sie ihn nach schleimigen Gartenschädlingen? Und warum sollte jemand wie dieser parfümierte Malfoy da Mitglied sein wollen? Ich kann mir beim besten Willen nicht vorstellen, dass die elegante Genevieve eine verborgene Leidenschaft für Weichtiere hat.
 ​Als er endlich abzog, warf ich Klara einen Blick zu. Sie erwiderte ihn nur kurz, aber in diesem stummen Moment absoluter Fassungslosigkeit fühlte ich mich auch ihr etwas verbundener.
 
 Wir sind dann schnell weiter zur Kasse gegangen, um zu bezahlen. Das war auch wieder ein Erlebnis, wie scheinbar alles hier. Ein Steinkauz namens Errol hat unsere zerknüllten Roben mit dem Schnabel gepackt, ist damit dann zur hohen Decke geflogen und hat sie durch eine Art riesige Walze gedreht um sie zu glätten, bevor er sie wieder herunter geflogen hat. Dazu gab es noch einen Spitzhut, einen Schal, Handschuhe und einen Wintermantel oben drauf.
@@ -182,6 +182,7 @@ Ich konnte sehen, wie es in ihrem Kopf ratterte, wie sie realisierte, dass sie d
 Sie presste die Worte förmlich zwischen zusammengebissenen Zähnen hervor, leise, gequält und ohne ihn anzusehen. Aik und sein Bruder zogen ab, feixend und triumphierend, aber wahrscheinlich eingeschüchtert genug von der Autorität eines Vertrauensschülers, um keine weitere Szene zu machen. Aber der Schaden war angerichtet.
 
 Leo drehte sich zu dem Mädchen um. Und ihre ganze sonnige Wärme war weg, ersetzt durch eine kalte, zitternde Wut.
+
 Sie konfrontierte das immer noch weinende Mädchen. Es ging ihr gar nicht mal um den Diebstahl an sich. Es ging darum, dass sie dieses Mädchen verteidigt hatte. Dass sie sich für sie in die Schusslinie geworfen hatte, im festen Glauben an ihre Unschuld. Leo fühlte sich ausgenutzt und ihre Hilfsbereitschaft verraten. Sie hatte sich für eine Lügnerin blamiert.
 
 Leo verlangte sofort ihr Geld für die ausgelegte Robe zurück. Ihre Stimme war ganz fest, aber ich sah, wie ihre Hände zitterten. Das Mädchen, selbst auch völlig aufgelöst vor Angst und Scham, kramte hektisch in ihren Taschen und hielt Leo eine Handvoll Goldmünzen hin, viel mehr als der eigentliche Preis für die Kleidung. Vielleicht wollte sie sich freikaufen, vielleicht konnte sie vor Panik nicht zählen. Naja.
@@ -199,7 +200,8 @@ Sarah, diese unverschämte kleine Göre hat mich tatsächlich beklaut, während 
 Und Sarah, Genevieve hat mir in dem Moment fast ein bisschen Angst gemacht. Vergiss die elegante Diplomatin der letzten Stunden, die Schüler nach dem Weg fragt. Die hier war eiskalt. Sie baute sich vor dem Häufchen Elend auf – ohne eine Spur von Mitleid in ihrer Haltung, nur pure, schneidende Arroganz – und machte unmissverständlich klar, dass sie unsere Beutel zurückhaben wollte. Und zwar sofort.
 
 Das Mädchen wimmerte irgendetwas davon, dass wir uns bitte umdrehen sollten. Sie könne sie angeblich nicht herausholen, wenn wir zusehen würden.
-​Ja, klar. Als ob wir darauf nochmal hereinfallen würden. Wir blieben stehen wie angewurzelt. Wir vier, Leo hatte sich inzwischen halbwegs gefangen und stand schniefend bei uns, bildeten eine undurchdringliche Mauer aus verschränkten Armen und tiefem Misstrauen. Genevieve ließ sie mit einem Tonfall, der augenblicklich Seen hätte gefrieren lassen können, wissen, dass sie das absolut vergessen könne.
+
+​*Ja, klar.* Als ob wir darauf nochmal hereinfallen würden. Wir blieben stehen wie angewurzelt. Wir vier, Leo hatte sich inzwischen halbwegs gefangen und stand schniefend bei uns, bildeten eine undurchdringliche Mauer aus verschränkten Armen und tiefem Misstrauen. Genevieve ließ sie mit einem Tonfall, der augenblicklich Seen hätte gefrieren lassen können, wissen, dass sie das absolut vergessen könne.
 
 ​Immer noch weinend und zitternd griff das Mädchen in ihren Mantel. Mir fiel jetzt erst auf, wie seltsam ausgebeult er für so eine spindeldürre Person aussah, als würde sie einen Sack Kartoffeln darunter schmuggeln. Sie zögerte, zog dann aber langsam etwas hervor
 Sarah, ich habe ja schon viel Seltsames gesehen heute, aber das war... niedlich und schräg zugleich. Es war ein kleines, schwarzes, flauschiges Wesen mit einer langen Schnauze, das aussah wie eine Mischung aus einem Maulwurf und einem Schnabeltier. Ein Niffler, wie Leo es nannte.
