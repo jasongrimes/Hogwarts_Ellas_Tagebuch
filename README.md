@@ -11,7 +11,7 @@ permalink: /
 
 <div style="float: right; margin: 0 0 15px 20px; width: 300px; background: transparent;" markdown="1">
 
-<img src="{{ 'assets\session_pics\Hogwarts_Mauern_Heldinnen.webp' | relative_url }}" style="width: 100%; border-bottom: 1px solid #ddd;">
+<img src="{{ '/assets/session_pics/Hogwarts_Mauern_Heldinnen.webp' | relative_url }}" style="width: 100%; border-bottom: 1px solid #ddd;">
 <p style="font-size: 0.8em; color: gray; margin-top: 5px;">Die Heldinnen von links nach rechts: Ella, Leo, Klara und Genevieve.</p>
 
 </div>
