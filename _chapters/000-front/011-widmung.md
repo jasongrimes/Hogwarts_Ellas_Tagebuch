@@ -1,5 +1,5 @@
 ---
-slug: book
+slug: widmung
 title: Widmung
 abstract:
 ---
