@@ -16,13 +16,13 @@ abstract:
 <br>
 
 <span style="font-size:13px;">
-Falls dieses Heft gefunden wird: <br>  <br> Bitte nicht lesen. <br> <br>
-Es enthält unüberprüfte Hypothesen und private Daten.
+Falls dieses Buch gefunden wird: <br>  <br> Bitte nicht lesen. <br> <br>
+Es enthält unüberprüfte Hypothesen und private Daten.<br><br>
 Bitte an die unten genannte Person übergeben. Danke.</span>
 
 <br>
 
-<span style="font-size:13px;">Adresse:  <br> 
+<span style="font-size:13px;">Adresse:  <br>
 Eleonor Lockwood <br>
 2551 London Rd <br>
 Harrow <br>

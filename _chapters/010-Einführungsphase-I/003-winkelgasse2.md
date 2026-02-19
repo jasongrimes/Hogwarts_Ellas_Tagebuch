@@ -5,7 +5,7 @@ abstract: Ella kauft die restlichen Artikel auf der Einkaufsliste.
 date: 1950-08-31
 ---
 
-<img src="" alt="">
+<img src="assets/session_pics/Ella_S03_Diary_header.png" alt="S02 Header">
 
 <br>
 <br>
@@ -410,3 +410,7 @@ _AUFSCHLÜSSELUNG_
 - Arsenius Bunsen: *Zaubertränke und Zauberbräue*;
 - Newt Scamander: *Phantastische Tierwesen und wo sie zu finden sind*;
 - Quirin Sumo: *Dunkle Kräfte. Ein Kurs zur Selbstverteidigung*.
+
+---
+
+<img src="assets/session_pics/Ella_S03_Diary_full.png" alt="S02 Full">
