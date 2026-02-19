@@ -2,7 +2,7 @@
 title: Im 'Schwarzen Kater'
 slug: schwarzer-kater
 abstract: Ella kommt im 'Schwarzen Kater' an.
-date: 1950-08-29
+date: 1950-08-30
 ---
 
 <img src="assets/session_pics/Ella_S01_Diary_header.png" alt="S01 Header">
@@ -10,11 +10,10 @@ date: 1950-08-29
 <br>
 <br>
 
+**30. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
-**29. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
-
-Liebe Sarah,
+Liebe Emma,
 
 ​ich schreibe dir das hier auf dem Fenstersims in einem Raum, der riecht wie Großmutters alter Schrank. Du würdest es lieben. Es ist laut, es ist chaotisch, und nichts folgt den Regeln, die wir kennen.
 
@@ -24,7 +23,7 @@ Erinnerst du dich an den schwarzen Straßenkater, der immer mit diesem selbstbew
 
 Mutter hätte einen Anfall bekommen. Schwarze Katzenhaare auf den Polstermöbeln? Undenkbar. Katzen. Dann auch noch schwarze. Die bringen doch Unglück. Aber er ist jetzt meiner. Als dieser Brief aus Hogwarts kam, bin ich in die Bibliothek gegangen. Ich wollte wissen, was "Magie" wirklich ist, faktenbasiert. Ich habe Bücher über Folklore gewälzt. Das Einzige, was sich entfernt nach realer Macht anfühlte, waren Beschreibungen westafrikanischer Religionen und haitianischer Rituale. Also habe ich ihn Voodoo genannt.
 
-Mutter würde den Namen hassen, wenn sie wüsste, was er bedeutet. Sie würde es vulgär und "heidnisch" finden. Gut so. Du hättest ihn geliebt, Sarah. Er hat vor nichts Angst, und er urteilt nicht. Ganz im Gegensatz zu meinen Eltern, deren Urteil heute Morgen sehr klar ausfiel.
+Mutter würde den Namen hassen, wenn sie wüsste, was er bedeutet. Sie würde es vulgär und "heidnisch" finden. Gut so. Du hättest ihn geliebt, Emma. Er hat vor nichts Angst, und er urteilt nicht. Ganz im Gegensatz zu meinen Eltern, deren Urteil heute Morgen sehr klar ausfiel.
 
 Sie haben mich tatsächlich weggeschickt. Nicht mit dem Zug nach Schottland zu meiner Tante, wie wir immer gehofft haben. Sondern in diese... andere Welt. Mama und Papa haben einem seltsamen Service ein Vermögen bezahlt, nur damit ich weg bin, bevor der Bankdirektor zum Abendessen kam. Mein Verschwinden hat einen sehr genauen Preis. Nämlich 35 Galeonen. Ich habe den Scheck auf Papas Schreibtisch gesehen. Mein Wert wurde beziffert, und dann wurde ich in ein Auto gesetzt.
 
@@ -50,7 +49,7 @@ Genevieve, das eine neue Mädchen, trug ein Kleid, das objektiv betrachtet schmu
 
 ​Aber das Schlimmste kam erst noch. Die Zimmer sind im obersten Stockwerk. Wir mussten Fahrstühle benutzen.
 
-Sarah, das waren keine Maschinen. Das waren Holzkästen, die an Seilen hingen, und bedient wurden sie von... Schrumpfköpfen. Echten, kleinen, vertrockneten Köpfen, die von der Decke hingen und redeten. Während Genevieve und Klara nach oben rasten, war unser Kopf... schwierig. Er ist nur ganz langsam gefahren und meinte, wir bräuchten 2 Tage bis nach oben. Wir haben versucht, ihn anzutreiben. Da hat er den Aufzug komplett gestoppt. Der Kopf sagte, dass Hogwarts gefährlich sei. Ich habe erst versucht, logisch mit ihm zu reden, dass wir Zeitdruck haben. Hat nicht geholfen. Dann habe ich ihm gedroht. Ich wollte ihm einen alten, angebissenen Müsliriegel in den Mund schieben, wenn er nicht sofort weiterfährt. Aber der Kopf war sehr unbeeindruckt von meiner nicht so einschüchternden Präsenz  und hat den Riegel einfach magisch verschwinden lassen und uns ausgelacht. Also steckten wir fest in dieser engen Holzkiste. 
+Emma, das waren keine Maschinen. Das waren Holzkästen, die an Seilen hingen, und bedient wurden sie von... Schrumpfköpfen. Echten, kleinen, vertrockneten Köpfen, die von der Decke hingen und redeten. Während Genevieve und Klara nach oben rasten, war unser Kopf... schwierig. Er ist nur ganz langsam gefahren und meinte, wir bräuchten 2 Tage bis nach oben. Wir haben versucht, ihn anzutreiben. Da hat er den Aufzug komplett gestoppt. Der Kopf sagte, dass Hogwarts gefährlich sei. Ich habe erst versucht, logisch mit ihm zu reden, dass wir Zeitdruck haben. Hat nicht geholfen. Dann habe ich ihm gedroht. Ich wollte ihm einen alten, angebissenen Müsliriegel in den Mund schieben, wenn er nicht sofort weiterfährt. Aber der Kopf war sehr unbeeindruckt von meiner nicht so einschüchternden Präsenz  und hat den Riegel einfach magisch verschwinden lassen und uns ausgelacht. Also steckten wir fest in dieser engen Holzkiste. 
 
 Dann kamen die Wände näher und die Luft wurde dünner. Erinnerst du dich an den Tag im Schulkeller, als Cynthia uns eingesperrt und das Licht ausgemacht hatte? Ich hatte ein Gefühl, als würde sich ein eiserner Ring um meine Brust legen, immer enger, bis kein Platz mehr für Luft war. Genau das ist wieder passiert. Ich habe angefangen zu zittern und konnte nicht mehr atmen. Die Panik hat übernommen. Ich habe mich in die Ecke gepresst und den Kieselstein in meiner Tasche so fest gedrückt, dass mein Daumen immer noch weh tut. Ich hatte zum Glück meinen Inhalator dabei. Ich habe das bittere Pulver so leise ich konnte eingeatmet. Leo hat irgendwann versucht, mich zu beruhigen, als sie keinen anderen Ausweg gefunden hat, aber ich war wieder weit weg. Ich glaube, ich hoffe, sie hat das mit dem Inhalator nicht bemerkt. Das wäre gut. Niemand soll es wissen. Das ist nur eine weitere Schwäche, die sie gegen mich verwenden können, so wie Cynthia es getan hat. 
 
@@ -60,7 +59,7 @@ Er musste 342.000 Etagen hinunter laufen, um uns zu befreien, hat er gesagt. Das
 
 ​Als wir endlich im Zimmer ankamen, war ich ein Wrack. Aber Voodoo war da. Er lag auf einem Bett, als gehörte ihm der Laden. Nox, Leos „Kniesel“ (eine Art magische Katze, glaube ich), war auch da. Die beiden tolerieren sich. Voodoo hat sofort gespürt, dass ich am Ende war, und kam zu mir. Er ist auch Leo sofort um die Beine gestrichen. Ich glaube er mag sie. Er hat eine gute Menschenkenntnis. Sie war schon immer besser als meine.
 
-​Dann ist mir erst die volle Tragweite bewusst geworden: Wir teilen uns dieses Zimmer. Alle vier. Plus zwei Katzen. Sarah, das ist mein persönlicher Albtraum. In Harrow war mein Zimmer mein einziger Rückzugsort. Hier? Es sind zu viele Gerüche auf einmal – Omas Kleiderschrank, Lavendelwasser (Genevieve), feuchte Wolle (Klara), und eine Mischung aus getrockneten Kräutern und warmem Honig (Leo). Dazu das Geräusch von drei anderen atmenden Menschen. Um Himmels Willen, hoffentlich schnarchen die nicht noch. Es ist eine sensorische Überflutung. Keine Privatsphäre. Kein Ort, um einfach zu sein, ohne dass jemand zusieht. Ich wollte mich am liebsten unter dem Bett verkriechen. Aber dann habe ich mich auf die Matratze gesetzt. Sie war weich, wie eine Wolke. Wenigstens ein taktiler Eindruck, der nicht weh tut.
+​Dann ist mir erst die volle Tragweite bewusst geworden: Wir teilen uns dieses Zimmer. Alle vier. Plus zwei Katzen. Emma, das ist mein persönlicher Albtraum. In Harrow war mein Zimmer mein einziger Rückzugsort. Hier? Es sind zu viele Gerüche auf einmal – Omas Kleiderschrank, Lavendelwasser (Genevieve), feuchte Wolle (Klara), und eine Mischung aus getrockneten Kräutern und warmem Honig (Leo). Dazu das Geräusch von drei anderen atmenden Menschen. Um Himmels Willen, hoffentlich schnarchen die nicht noch. Es ist eine sensorische Überflutung. Keine Privatsphäre. Kein Ort, um einfach zu sein, ohne dass jemand zusieht. Ich wollte mich am liebsten unter dem Bett verkriechen. Aber dann habe ich mich auf die Matratze gesetzt. Sie war weich, wie eine Wolke. Wenigstens ein taktiler Eindruck, der nicht weh tut.
 
 ​Leo und ich haben uns kurz den anderen beiden vorgestellt. Dabei ist mir sofort eine statistische Auffälligkeit ins Auge gesprungen: Leo, Genevieve und ich – wir haben alle rote Haare. Wir sehen aus, als könnten wir Schwestern sein. Nur Klara hat braune Haare. Für eine Sekunde dachte ich, das wäre eine Gemeinsamkeit. Eine Basis. Aber das war ein Trugschluss. Die Haarfarbe ist die einzige Variable, die wir teilen. Naja und, dass wir alle Hogwarts als Ziel haben.
 
@@ -72,7 +71,7 @@ Deine Ella
 
 ---
 
-**Nachtrag: 00:12 Uhr, 29./30. August 1950**
+**Nachtrag: 00:12 Uhr, 30./31. August 1950**
 
 Ich habe versucht zu schlafen, aber dann kam das Gewitter. Und eben wurden wir von einem verzweifelten Hilfeschrei geweckt, begleitet von einem hektischen Klopfen am Fenster im Flur. Klara und Leo haben tief geschlafen – wie sie das bei dem Lärm schaffen, ist mir ein Rätsel. Aber Genevieve war wach und sah genauso verängstigt aus wie ich.
 

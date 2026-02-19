@@ -6,7 +6,7 @@ abstract:
 
 <br><br><br><br><br>
 
-<span style="font-size:60px;">FÜR SARAH.</span>
+<span style="font-size:60px;">FÜR EMMA.</span>
 
 <br><br><br>
 
@@ -16,13 +16,13 @@ abstract:
 <br>
 
 <span style="font-size:13px;">
-Falls dieses Heft gefunden wird: Bitte nicht lesen.
+Falls dieses Heft gefunden wird: <br>  <br> Bitte nicht lesen. <br> <br>
 Es enthält unüberprüfte Hypothesen und private Daten.
-Bitte an die oben genannte Person übergeben. Danke.</span>
+Bitte an die unten genannte Person übergeben. Danke.</span>
 
 <br>
 
-<span style="font-size:13px;">Adresse:
+<span style="font-size:13px;">Adresse:  <br> 
 Eleonor Lockwood <br>
 2551 London Rd <br>
 Harrow <br>

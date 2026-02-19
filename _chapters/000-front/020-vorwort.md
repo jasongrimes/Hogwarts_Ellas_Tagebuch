@@ -4,7 +4,7 @@ slug: vorwort
 abstract:
 ---
 
-Liebe Sarah,
+Liebe Emma,
 
 da ich dich nicht anrufen kann und Briefe hier anscheinend von Vögeln getragen werden (ja, wirklich), ist dieses Buch meine einzige Verbindung zu dir. Und zu einer Welt, die Sinn ergibt.
 
