@@ -607,7 +607,7 @@ Dann sein Bruder. Eik Duville. Der Junge, der Malona in der Winkelgasse so wider
 
 Als Nächstes kam ein gewisser Cedric Ashcroft heran. Er sah etwas ungepflegt aus, mit Schmutzflecken auf der Wange. Ich weiß bisher nichts über ihn, aber der Hut schickte ihn prompt nach *Hufflepuff*.
 
-Danach wurde mein Herzschlag noch schneller. Klara Frieda Hoffmann. Sie löste sich aus unserer Reihe und ging langsam zum Stuhl. Sie wirkte so klein und zerbrechlich da vorne. Der Hut rutschte ihr tief über die Augen. Es war einen Moment still. Dann sprach der Hut laut über ihren Kopf hinweg. Er sprach von „Intelligenz“ und „Überlebensstärke“. Er erwähnte einen „Drang nach Freiheit“ und den Wunsch, sich durchzusetzen, aber auch den „Griff nach Stabilität“. Er sagte, die Vergangenheit liege hinter ihr und rief *Ravenclaw*. Emma, du hättest Klara sehen sollen. Ein Lächeln breitete sich auf ihrem Gesicht aus, das ich so noch nicht an ihr gesehen habe. Es war pure Erleichterung. Und Genevieve neben mir? Sie klatschte so laut und enthusiastisch, als wäre sie die stolze Mutter bei einer Schulaufführung. Klara lief zum Ravenclaw-Tisch und setzte sich direkt gegenüber von Howard Peel, dem Zeitungsjungen aus dem Zug.
+Danach wurde mein Herzschlag noch schneller. Klara Frieda Hoffmann. Sie löste sich aus unserer Reihe und ging langsam zum Stuhl. Sie wirkte so klein und zerbrechlich da vorne. Der Hut rutschte ihr tief über die Augen. Es war einen Moment still. Dann sprach der Hut laut über ihren Kopf hinweg. Er sprach von „Intelligenz“ und „Überlebensstärke“. Er erwähnte einen „Drang nach Freiheit“ und den Wunsch, sich durchzusetzen, aber auch den „Griff nach Stabilität“. Er sagte, die Vergangenheit liege hinter ihr und rief *Ravenclaw*. Emma, du hättest Klara sehen sollen. Ein Lächeln breitete sich auf ihrem Gesicht aus, das ich so noch nicht an ihr gesehen habe. Es war pure Erleichterung. Und Genevieve neben mir? Sie klatschte so laut und enthusiastisch, als wäre sie die stolze Mutter bei einer Schulaufführung. Klara lief zum blauen Ravenclaw-Tisch und setzte sich zwischen ihre neuen Mitschüler.
 
 Nach Klara kam Benedict Moorfield. Der unheimliche Junge aus der Bibliothek und dem Boot, der Leo und mich immer so seltsam anstarrt. Er sah verängstigt aus und murmelte vor sich hin, dass er nach *Ravenclaw* wolle. Der Hut erfüllte ihm den Wunsch. Großartig. Jetzt ist er in Klaras Haus. Ich hoffe, er lässt sie in Ruhe.
 
@@ -890,7 +890,7 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
 
   Farblegende:
 
-  <span class="house-name gryffindor">Gryffindor</span>, <span class="house-name hufflepuff">Hufflepuff</span>, <span class="house-name ravenclaw">Ravenclaw</span>, <span class="house-name Slytherin">Slytherin</span>, <span class="house-name other">Andere</span>
+  <span class="house-name gryffindor">Gryffindor</span>, <span class="house-name hufflepuff">Hufflepuff</span>, <span class="house-name ravenclaw">Ravenclaw</span>, <span class="house-name slytherin">Slytherin</span>, <span class="house-name other">Andere</span>
 
 <style>
   /* Gemeinsamer Halo-Effekt für alle Namen */
