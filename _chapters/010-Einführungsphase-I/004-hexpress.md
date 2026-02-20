@@ -323,7 +323,7 @@ Während Genevieve also versuchte, die Situation zu retten, und Leo sie skeptisc
 
 Wir hatten uns gerade wieder etwas beruhigt – Colins leises, rhythmisches Schnarchen bildete jetzt die Hintergrundmusik unserer Reise –, als sich die Tür erneut öffnete.
 
-Der Junge, der eintrat, wirkte deutlich sortierter als Colin. Er trug bereits seinen Umhang mit einem blau-bronzenen Wappen – Ravenclaw, wenn ich Leos Ausführungen richtig behalten habe. Er stellte sich als Howard Peel vor und erklärte mit einer fast geschäftsmäßigen Wichtigkeit, dass er für die Eulenpost schreibe, wohl die offizielle Schülerzeitung von Hogwarts.
+Der Junge, der eintrat, wirkte deutlich sortierter als Colin. Er trug bereits seinen Umhang mit einem gelb-schwarzen Wappen – Hufflepuff, wenn ich Leos Ausführungen richtig behalten habe. Er stellte sich als Howard Peel vor und erklärte mit einer fast geschäftsmäßigen Wichtigkeit, dass er für die Eulenpost schreibe, wohl die offizielle Schülerzeitung von Hogwarts.
 
 Er wollte wissen, warum Colin auf unserem Teppich schläft, und als Leo ihm kichernd erklärte, dass der Arme „einiges durchgemacht habe“, nahm er das einfach grinsend hin. Er war hier, um die neuen Erstklässler für eine Kolumne zu interviewen. Zum Kennenlernen, meinte er. Leo war anfangs skeptisch, aber Howard versicherte ihr, sie könne jede Frage ablehnen. Also stimmten wir zu.
 
@@ -481,7 +481,7 @@ Der Name aus dem Tagespropheten im Zug. Der Mann, der verdächtigt wurde, vor si
 
 Aber ich hatte keine Wahl. Leo, die von meiner inneren Unruhe natürlich wieder absolut nichts mitbekam vor eigener Aufregung, packte meine Hand und zog mich einfach mit sich. Wir reihten uns stolpernd in einen Tross aus aufgeregten Kindern ein. Genevieve und Klara liefen etwa zwei Reihen hinter uns, und noch weiter hinten, fast verschluckt von der Dunkelheit, sah ich diese zwei widerlichen Brüder aus der Winkelgasse, gefolgt von der Niffler-Diebin Malona, die ganz allein am Ende der Schlange ging.
 
-Dieser Hagrid stampfte voran, ohne sich auch nur ein einziges Mal umzudrehen, um zu prüfen, ob wir noch da waren. Er nahm keinerlei Rücksicht auf Verluste oder unsere kurzen Beine, die kaum mit seinen riesigen Schritten mithalten konnten. An der Spitze seines riesigen, rosafarbenen Regenschirms leuchtete plötzlich ein helles Licht auf. Es war ein Zauber, um uns den Weg durch die Finsternis zu weisen. Trotz meiner Angst vor ihm musste ich kurz fasziniert hinsehen. Das ist nämlich unglaublich praktisch. Wenn ich diesen Zauber ersteinmal lerne, kann ich nämlich endlich nachts unter der Bettdecke lesen, ohne eine Kerze halten zu müssen. Die Brandgefahr wäre damit auf ein Minimum reduziet. Es ist schon seltsam, wie Angst und Neugier in meinem Kopf direkt nebeneinander wohnen.
+Dieser Hagrid stampfte voran, ohne sich auch nur ein einziges Mal umzudrehen, um zu prüfen, ob wir noch da waren. Er nahm keinerlei Rücksicht auf Verluste oder unsere kurzen Beine, die kaum mit seinen riesigen Schritten mithalten konnten. An der Spitze seines überaus langen Zauberstabs leuchtete plötzlich ein helles Licht auf. Es war ein Zauber, um uns den Weg durch die Finsternis zu weisen. Trotz meiner Angst vor ihm musste ich kurz fasziniert hinsehen. Das ist nämlich unglaublich praktisch. Wenn ich diesen Zauber ersteinmal lerne, kann ich nämlich endlich nachts unter der Bettdecke lesen, ohne eine Kerze halten zu müssen. Die Brandgefahr wäre damit auf ein Minimum reduziet. Es ist schon seltsam, wie Angst und Neugier in meinem Kopf direkt nebeneinander wohnen.
 
 Wir marschierten im Gänsemarsch durch die Wildnis. Es war ein steiler, rutschiger Pfad, der nach unten führte. Rechts und links des Weges wucherten Pflanzen, die definitiv nicht in den Biologieunterricht gehören. Ich sah Gewächse, die sich bewegten, obwohl es windstill war. Da waren fleischfressende Pflanzen – aber nicht so harmlose kleine Dinge wie in Tante Petunias Gewächshaus. Nein, diese hier schnappten mit hörbarem Klacken nach vorbeifliegenden Insekten, fast wie hungrige Hunde.
 
@@ -549,7 +549,7 @@ Aber die Atmosphäre war dahin. Die entspannte, ehrfürchtige Fahrt war vorbei. 
 
 ​Und dann, endlich, endlich, knirschten unsere Boote im Kies. Wir fuhren in eine Art unterirdischen Hafen ein, der direkt in den Fels unter dem Schloss gehauen schien. Kaum hatte der Rumpf den Boden berührt, war ich die Erste, die heraussprang – nahezu fluchtartig.
 
-Hagrid kletterte aus seiner ächzenden Nussschale – ich werde nie verstehen, wie dieses Ding nicht gesunken ist – und kümmerte sich sofort um das nasse, zitternde Bündel namens Malona. Mit einer fast zärtlichen Bewegung schwang er seinen riesigen, rosa Schirm, und heißer Dampf stieg von ihrer Kleidung auf, bis sie innerhalb von Sekunden wieder trocken war.
+Hagrid kletterte aus seiner ächzenden Nussschale – ich werde nie verstehen, wie dieses Ding nicht gesunken ist – und kümmerte sich sofort um das nasse, zitternde Bündel namens Malona. Mit einer fast zärtlichen Bewegung schwang er seinen Zauberstab und heißer Dampf stieg von ihrer Kleidung auf, bis sie innerhalb von Sekunden wieder trocken war.
 
 ​Ich bin vorsichtig näher getreten, getrieben von einer Mischung aus Neugier und Misstrauen. Leo blieb einen Schritt hinter mir, ihre Hand fest in meiner verkrallt. Sie wollte wohl eine direkte Konfrontation mit Malona vermeiden – Leo ist zwar gutmütig, aber nicht dumm, und die Sache mit dem Niffler hat sie wirklich verletzt –, aber sie wollte mich in dieser düsteren Höhle wohl auch nicht alleine lassen.
 
@@ -938,7 +938,7 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
 | | <span class="house-name gryffindor">McGonagall, Minerva</span> | | | |
 | | <span class="house-name ravenclaw">Moorfield, Benedict</span> | | | |
 | | | | <span class="house-name ravenclaw">Ora, Malona</span> | |
-| | <span class="house-name ravenclaw">Peel, Howard</span> | | | |
+| | <span class="house-name hufflepuff">Peel, Howard</span> | | | |
 | | <span class="house-name slytherin">Penrose, Harold</span> | | | |
 | | | | | <span class="house-name other">Richard, Sir</span> |
 | | <span class="house-name gryffindor">Wheeler, Colin</span> | | | |
