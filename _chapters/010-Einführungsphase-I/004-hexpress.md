@@ -36,14 +36,14 @@ date: 1950-09-01
 <br>
 <br>
 
-**1. September 1950, 22:27 Uhr, Hogwarts**
+**1. September 1950, 22:27 Uhr, Schlafsaal, Hogwarts**
 
 
 Emma, ich bin da. Ich bin wirklich hier. In Hogwarts. Eine Schule für Zauberei. Das klingt wie aus einem deiner Märchenbücher, aber es ist real. Es ist völlig absurd und absolut fantastisch gleichzeitig.
 
 Frag mich bitte noch nicht, wie der Schlafsaal aussieht, in dem ich gerade sitze. Mein Kopf ist so voll, dass er sich weigert, auch nur noch ein einziges visuelles Detail zu verarbeiten. Ich weiß nur eines: Der Raum hat keine Ecken. Er ist kreisrund, gemauert aus uraltem Stein, als würden wir im Inneren eines riesigen Schornsteins oder Leuchtturms schlafen und der Wind pfeift anders als in London.
 
-Aber ich sehe das alles gerade nicht mehr. Ich habe eine sofortige Sicherheitsmaßnahme ergriffen: Ich habe die schweren, dichten Samtvorhänge um mein Himmelbett komplett zugezogen. Ich habe die Außenwelt ausgesperrt. Ich sitze jetzt in einem kleinen, dunklen Stoffwürfel und atme erst einmal durch. Hier drinnen ist es still. Hier drinnen gelten wenigstens halbwegs normale Gesetze der Physik. Die Welt da draußen – die beweglichen Treppen (ja, sie bewegen sich!), die Geister (echte, tote Menschen, Em!), die schwebenden Kerzen und die Gesetze der Magie – muss warten. Hier drinnen gibt es nur mich, Voodoo, das warme Flackern meiner kleinen Lampe und das vertraute Kratzen der Feder auf dem Papier.
+Aber ich sehe das alles gerade nicht mehr. Ich habe eine sofortige Sicherheitsmaßnahme ergriffen: Ich habe die schweren, dichten Samtvorhänge um mein Himmelbett komplett zugezogen. Ich habe die Außenwelt ausgesperrt. Ich sitze jetzt in einem kleinen, dunklen Stoffwürfel und atme erst einmal durch. Hier drinnen ist es still. Hier drinnen gelten wenigstens halbwegs normale Gesetze der Physik. Die Welt da draußen – die beweglichen Treppen (ja, sie bewegen sich!), die Geister (echte, tote Menschen, Em!), die schwebenden Kerzen und die Gesetze der Magie – muss warten. Hier drinnen gibt es nur mich, Voodoo, das warme Flackern meiner kleinen Kerze und das vertraute Kratzen der Feder auf dem Papier.
 
 Wenn ich die Augen schließe, dreht sich alles, als säße ich immer noch in diesem wackeligen Boot auf dem Schwarzen See. Also lasse ich sie offen und schreibe dir. Ich muss das alles ordnen, bevor ich den Verstand verliere.
 
@@ -271,7 +271,7 @@ Das klebrige, lilafarbene Geschoss flog einmal quer durch das Abteil – und kla
 
 Einen Moment lang war es totenstill. Genevieve starrte die Bohne an, die fast in ihren Haaren gelandet wäre. Und dann fingen wir an zu lachen. Es war so absurd, so eklig und so witzig zugleich. Wenn diese klebrige Masse tatsächlich in Genevieves Haaren gelandet wäre, hätte die Frequenz ihres Schreis wahrscheinlich die Fensterscheiben des Abteils gesprengt. Aber so war es einfach nur unglaublich lustig.
 
-Weil Leo immer noch würgte und aussah, als würde sie gleich Schaum vor dem Mund haben, kramte ich schnell einen meiner Kräuterbonbons aus der Tasche und bot ihn ihr an, um den Seifengeschmack zu überdecken. Sie nahm ihn dankbar an und lutschte daran, als wäre es das Elixier des Lebens.
+Weil Leo immer noch würgte und aussah, als würde sie gleich Schaum vor dem Mund haben, kramte ich schnell einen meiner Butterscotchbonbons aus der Tasche und bot ihn ihr an, um den Seifengeschmack zu überdecken. Sie nahm ihn dankbar an und lutschte daran, als wäre es das Elixier des Lebens.
 
 Dann hielt Genevieve mir die Packung hin. Abgesehen von der gelben Bohne, waren nur noch zwei weitere da. Ich versuchte, auf der Rückseite der Schachtel die Inhaltsstoffe zu entziffern, um mein Risiko zu minimieren. Aber da stand nur kryptisches Zeug wie: *„Kleine Geleebohnen in jeder Geschmacksrichtung. Ein Risiko mit jedem Bissen.“* Das ist keine Zutatenliste, das ist eine Haftungsausschlusserklärung. Eigentlich wollte ich ablehnen. Aber ich spürte den Gruppenzwang. Ich wollte nicht die Spielverderberin sein, die die Stimmung wieder kippen lässt. Also griff ich nach der grünen Bohne und hoffte auf Apfel.
 
@@ -915,7 +915,7 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
   }
 </style>
 
-| **Grün** | **Weiß** | **Gelb** | **Rot** | **Alarmstufe Rot** |
+| **Grün** | **Weiß** | **Gelb** | **Orange** | **Alarmstufe Rot** |
 | :---: | :---: | :---: | :---: |  :---: |
 | | <span class="house-name hufflepuff">Ashcroft, Cedric</span> | | | |
 | <span class="house-name slytherin">Boot, Genevieve</span> | | | | |

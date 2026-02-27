@@ -25,9 +25,9 @@ Mutter hätte einen Anfall bekommen. Schwarze Katzenhaare auf den Polstermöbeln
 
 Mutter würde den Namen hassen, wenn sie wüsste, was er bedeutet. Sie würde es vulgär und "heidnisch" finden. Gut so. Du hättest ihn geliebt, Emma. Er hat vor nichts Angst, und er urteilt nicht. Ganz im Gegensatz zu meinen Eltern, deren Urteil heute Morgen sehr klar ausfiel.
 
-Sie haben mich tatsächlich weggeschickt. Nicht mit dem Zug nach Schottland zu meiner Tante, wie wir immer gehofft haben. Sondern in diese... andere Welt. Mama und Papa haben einem seltsamen Service ein Vermögen bezahlt, nur damit ich weg bin, bevor der Bankdirektor zum Abendessen kam. Mein Verschwinden hat einen sehr genauen Preis. Nämlich 35 Galeonen. Ich habe den Scheck auf Papas Schreibtisch gesehen. Mein Wert wurde beziffert, und dann wurde ich in ein Auto gesetzt.
+Sie haben mich tatsächlich weggeschickt. Nicht zu meiner Tante, wie wir immer gehofft haben. Sondern in diese... andere Welt. Mama und Papa haben einem seltsamen Service ein Vermögen bezahlt, nur damit ich weg bin, bevor der Bankdirektor zum Abendessen kam. Mein Verschwinden hat einen sehr genauen Preis. Nämlich 35 Galeonen. Ich habe den Scheck auf Papas Schreibtisch gesehen. Mein Wert wurde beziffert, und dann wurde ich in ein Auto gesetzt.
 
-​Sie haben mich vor einem Ort namens „Der Schwarze Kater“ abgesetzt. Du hättest es gehasst. Es ist kein Hotel, es ist ein Zustand. Alles ist mit einer Schicht aus Schmutz und Katzenhaaren überzogen. Es riecht streng. Hinter einem Tresen schlief eine alte Frau, und Besen fegten den Boden, ganz von allein, ohne Hände. Ich habe versucht, das zu analysieren, aber mein Verstand hat einfach gestreikt.
+​Sie haben mich vor einem Ort namens „Der Schwarze Kater“ abgesetzt. Du hättest es geliebt. Es ist kein Hotel, es ist ein Zustand. Alles ist mit einer Schicht aus Schmutz und Katzenhaaren überzogen. Es riecht streng. Hinter einem Tresen schlief eine alte Frau, und Besen fegten den Boden, ganz von allein, ohne Hände. Ich habe versucht, das zu analysieren, aber mein Verstand hat einfach gestreikt.
 
 ​Ich habe mich an den Kamin gesetzt um meine nasse Kleidung zu trocknen. Feuer ist berechenbar. Dachte ich. Aber kurz darauf wurden die Flammen plötzlich riesig und grün. Es gab einen Knall, als würde die Luft zerreißen, und ein Mädchen stolperte direkt aus dem Feuer heraus. Einfach so.
 
@@ -77,7 +77,7 @@ Ich habe versucht zu schlafen, aber dann kam das Gewitter. Und eben wurden wir v
 
 Wir sind mit einer Kerze zum Fenster im Flur gegangen. Draußen, im strömenden Regen, auf dem Fenstersims im gefühlt 342.000-ten Stockwerk... da stand ein kleines, durchnässtes, schreiendes Wiesel mit Hut. Ich habe das Fenster geöffnet und es ist hinein geklettert. Und es hat tatsächlich gesprochen.
 
-Das erste, was es fragte, war, ob das hier schon London sei. Es hat eine Stimme wie eine rostige Türangel und flucht schlimmer als der Kutscher von Tante Petunia. Es hat darauf bestanden, mit einem albernen Titel wie „Sir Richard“ angesprochen zu werden, und hat eine absurde Geschichte erzählt, dass es auf einem Vogel hergeflogen sei – daher wohl der Aufprall gegen die Scheibe – und nun jemand namens Dumbledore suche.
+Das erste, was es fragte, war, ob das hier schon London sei. Es hat eine Stimme wie eine rostige Türangel und flucht schlimmer als Tante Petunia, wenn ihr beim Unkrautjäten die Pfeife ins nasse Beet fällt. Es hat darauf bestanden, mit einem albernen Titel wie „Sir Richard“ angesprochen zu werden, und hat eine absurde Geschichte erzählt, dass es auf einem Vogel hergeflogen sei – daher wohl der Aufprall gegen die Scheibe – und nun jemand namens Dumbledore suche.
 
 Ich stand nur da und habe versucht, zu verstehen, wie ein Mustelide kognitiv zur Sprache fähig sein kann. Mein Gehirn hat sich angefühlt wie Wackelpudding. Ich weiß nicht, ob ich träume oder verrückt geworden bin. Ich weiß nur, dass die Regeln der Naturwissenschaften hier nicht nur nicht gelten, sie werden aktiv verspottet.
 
