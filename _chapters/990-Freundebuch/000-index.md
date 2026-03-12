@@ -1,0 +1,5 @@
+---
+layout: schuljahr
+slug: freundebuch
+---
+
