@@ -48,6 +48,16 @@
                 </a>
               {% endif %}
             </li>
+          {% elsif i_schuljahr_folder and i_schuljahr_folder != i_prev_schuljahr_folder and i_schuljahr_unnumbered and i_schuljahr_label %}
+            <li class="header {% if i_schuljahr_is_draft %}draft{% endif %}">
+              {% if i_chapter_is_schuljahr_index %}
+                <a href="{{site.baseurl}}{{i_chapter.url}}">
+              {% endif %}
+              {{ i_schuljahr_label }}
+              {% if i_chapter_is_schuljahr_index %}
+                </a>
+              {% endif %}
+            </li>
           {% endif %}
 
           {% if i_chapter_is_schuljahr_index %}

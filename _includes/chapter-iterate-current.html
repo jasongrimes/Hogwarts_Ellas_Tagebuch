@@ -61,7 +61,7 @@
     {% if i_schuljahr_sort_index == "000" or i_schuljahr_sort_index == "999" %}
       {% assign i_schuljahr_unnumbered = true %}
       {% assign i_schuljahr_label = nil %}
-    {% elsif schuljahr_sort_index == "990" %}
+    {% elsif i_schuljahr_sort_index == "990" %}
       {% assign i_schuljahr_unnumbered = true %}
       {% assign i_schuljahr_label = i_schuljahr_folder | split: "-" | shift | join: " " | capitalize %}
     {% else %}

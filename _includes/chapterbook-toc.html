@@ -37,7 +37,11 @@
           {% if i_chapter_is_schuljahr_index %}
             <a href="{{site.baseurl}}{{i_chapter.url}}">
           {% endif %}
-          Schuljahr {{ i_schuljahr_num }}: {{ i_schuljahr_label }}
+          {% if i_schuljahr_unnumbered %}
+            {{ i_schuljahr_label }}
+          {% else %}
+            Schuljahr {{ i_schuljahr_num }}: {{ i_schuljahr_label }}
+          {% endif %}
           {% if i_chapter_is_schuljahr_index %}
             </a>
           {% endif %}

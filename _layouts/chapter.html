@@ -41,9 +41,13 @@ layout: default
         </li>
       {% endif %}
 
-      {% if page_chapter_is_schuljahr_index and page_schuljahr_num%}
+      {% if page_chapter_is_schuljahr_index and page_schuljahr_num %}
         <li class="breadcrumb-schuljahr no-arrow">
           Schuljahr {{ page_schuljahr_num }}:
+        </li>
+      {% elsif page_chapter_is_schuljahr_index and page_schuljahr_unnumbered and page_schuljahr_label %}
+        <li class="breadcrumb-schuljahr no-arrow">
+          {{ page_schuljahr_label }}
         </li>
       {% endif %}
 
@@ -51,7 +55,17 @@ layout: default
         {% unless page_schuljahr_unnumbered and page_chapter_num == nil %}
 
           {% if page_schuljahr_folder %}
-            {% unless page_schuljahr_unnumbered %}
+            {% if page_schuljahr_unnumbered and page_schuljahr_label %}
+              <li class="breadcrumb-schuljahr">
+                {% if page_schuljahr_index_chapter %}
+                  <a href="{{ site.baseurl }}{{ page_schuljahr_index_chapter.url }}">
+                {% endif %}
+                {{ page_schuljahr_label }}
+                {% if page_schuljahr_index_chapter %}
+                  </a>
+                {% endif %}
+              </li>
+            {% elsif page_schuljahr_unnumbered == false %}
               <li class="breadcrumb-schuljahr">
                 {% if page_schuljahr_index_chapter %}
                   <a href="{{ site.baseurl }}{{ page_schuljahr_index_chapter.url }}">
@@ -61,7 +75,7 @@ layout: default
                   </a>
                 {% endif %}
               </li>
-            {% endunless %}
+            {% endif %}
           {% endif %}
 
           {% if page_chapter_num %}
@@ -140,7 +154,9 @@ layout: default
           <div class="schuljahr">
             Next:
             {% if page_next_chapter_is_schuljahr_index %}
-              Schuljahr {{ page_next_schuljahr_num }}.
+              {% if page_next_schuljahr_num %}
+                Schuljahr {{ page_next_schuljahr_num }}.
+              {% endif %}
             {% else %}
               {% if page_next_schuljahr_label %}
                 {{ page_next_schuljahr_label }}
@@ -175,7 +191,9 @@ layout: default
           <div class="schuljahr">
             Previous:
             {% if page_prev_chapter_is_schuljahr_index %}
-              Schuljahr {{ page_prev_schuljahr_num }}.
+              {% if page_prev_schuljahr_num %}
+                Schuljahr {{ page_prev_schuljahr_num }}.
+              {% endif %}
             {% else %}
               {% if page_prev_schuljahr_label %}
                 {{ page_prev_schuljahr_label }}
