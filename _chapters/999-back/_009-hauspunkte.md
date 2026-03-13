@@ -56,12 +56,12 @@ abstract:
 </style>
 
 
-<img src="assets/session_pics/Hauspunkte_transparent.png" alt="hauspunkte"
+<img src="assets/images/general/Hauspunkte_transparent.png" alt="hauspunkte"
  onclick="document.getElementById('imageModal').style.display='block'">
 
 <div id="imageModal" class="modal" onclick="this.style.display='none'">
   <span class="close-btn">&times;</span>
-  <img class="modal-content" src="/assets/session_pics/Hauspunkte_transparent.png">
+  <img class="modal-content" src="/assets/images/general/Hauspunkte_transparent.png">
 </div>
 
 
